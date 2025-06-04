@@ -17,6 +17,7 @@ int main () {
     srand(time(NULL));
 
     for (int x = 0; x < 50; x++) {
+        // Se fose char e usar structs tem que ter {};
         pessoa[x].numero = x;
         pessoa[x].idade = 1+rand()%80;
         pessoa[x].peso = 40+(rand()%40)+0.01*(rand()%90); // kg
