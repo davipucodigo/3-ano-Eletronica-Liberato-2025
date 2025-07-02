@@ -102,11 +102,36 @@ int triangulo_retangulo(float *oposto, float *adjacente, float *hipotenusa) {
     } 
 }
 
-/*void ordena_alfa (char *p1, char *p2 ) {
+void ordena_alfa (char *p1, char *p2 ) {
     // 97 á 122 minusculas
-    if (*p1 > *p2) {
+    if (*p1 < *p2) {
+        printf("\nEm ordem Alfabetica: ");
+        for (int x = 0; x < 50; x++) {
+            printf("%c", *p1);
+            p1++;
+        }
+        printf(" ");
+        for (int x = 0; x < 50; x++) {
+            printf("%c", *p2);
+            p2++;
+        }
+        printf("\n");
     }
-}*/
+
+    if (*p1 > *p2) {
+        printf("\nEm ordem Alfabetica: ");
+        for (int x = 0; x < 50; x++) {
+            printf("%c", *p2);
+            p2++;
+        }
+        printf(" ");
+        for (int x = 0; x < 50; x++) {
+            printf("%c", *p1);
+            p1++;
+        }
+        printf("\n");
+    }
+}
 
 int main() {
     //==================================== EXERCICIOS LISTA PONTEIROS ============================================== //
@@ -153,10 +178,11 @@ int main() {
     //6#)
 
     //7#)
-    char string1[50] = "gato";
-    char string2[50] = "cachorro";
-    //ordena_alfa(&string1,&string2);
-
+    /*
+    char string1[50] = "abelha";
+    char string2[50] = "bola";
+    ordena_alfa(string1,string2);
+    */
 
     return 0;
 }
