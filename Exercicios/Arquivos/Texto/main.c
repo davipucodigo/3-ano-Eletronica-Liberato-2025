@@ -20,6 +20,23 @@ Modo Significado
 "a+t" Acrescenta dados ou cria um arquivo texto para leitura/escrita
 */
 
+/*
+FUNÇÕES
+fopen() Abre um fluxo
+fclose() Fecha um fluxo
+putc() Escreve um caractere para um fluxo
+getc() Lê um caractere para um fluxo
+fseek() Procura por um byte especificado no fluxo
+fprintf() É para um fluxo aquilo que printf() é para o console
+fscanf() É para um fluxo aquilo que scanf() é para o console
+feof() Retorna verdadeiro se o fim do arquivo é encontrado
+ferror() Retorna verdadeiro se ocorreu um erro
+fread() Lê um bloco de dados de um fluxo
+fwrite() Escreve um bloco de dados para um fluxo
+rewind() Reposiciona o começo do arquivo
+remove() Apaga um arquivo
+*/
+
 #include <stdio.h> // <-- Possui o FILE Aqui.
 #include <stdlib.h>
 #include <string.h>
@@ -64,14 +81,13 @@ int main() {
     printf("\n\n");
 
     
-    // |======================== ACRESENTANDO O ARQUIVO =====================================|
-    ponteiro_arquivo = fopen("note.txt", "at");
+    // |======================== ACRESENTANDO ou ESCREVENDO NO ARQUIVO =====================================|
+    ponteiro_arquivo = fopen("note.txt", "at"); // at acrescenta um texto e wt reescreve o texto.
 
-    char cha[50] = "Comer Pizza.";
-    for (int x = 0; x < strlen(cha); x++) {
-        putc(cha[x], ponteiro_arquivo);
+    char cha[50] = "\nComer Pizza é muito bom.";
+    for (int x = 0; x < strlen(cha); x++) { // Dá para usar o for para limitar a gravação da struct.
+        putc(cha[x], ponteiro_arquivo); // Gravando caracter por caracter da struct.
     }
-
     fclose(ponteiro_arquivo);
 
     return 0;
