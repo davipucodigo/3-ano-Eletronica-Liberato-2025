@@ -42,6 +42,7 @@ remove() Apaga um arquivo
 #include <string.h>
 
 
+//Mapa de arquitetura simplificado fazer para os trabalhos.
 
 int main() {
 
