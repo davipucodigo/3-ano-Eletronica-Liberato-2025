@@ -69,7 +69,7 @@ int main () {
     setlocale(LC_ALL,"Portuguese");
 
     //Variaveis;
-    int exit = 0;
+    int exit = 1;
 
     //Menu
     do {
@@ -80,6 +80,7 @@ int main () {
         int op;
         scanf("%d", &op);
         fflush(stdin);
+        if (op == 5) exit = 0;
 
     }while(exit);
 }
