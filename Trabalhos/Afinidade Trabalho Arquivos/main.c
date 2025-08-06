@@ -76,7 +76,6 @@ int main () {
         //Troca de Menu para cada Sistema, Desabilite o define LinuxSystem se estiver usando Windows.
         if (LinuxSystem) Menu_Style_Linux();
         else Menu_Style_Win();
-        
         //Entrada de Opções
         int op;
         scanf("%d", &op);
