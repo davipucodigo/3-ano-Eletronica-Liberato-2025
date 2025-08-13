@@ -4,6 +4,36 @@
 
 #define LinuxSystem 1 
 
+
+//Structs
+typedef struct {
+    int dia;
+    int mes;
+    int ano;
+}data;
+
+typedef struct {
+    char nome[100];
+    int idade;
+    data nascimento;
+    char email[100];
+    long int phone;
+    // Elementos de grau de afinidade:
+    char time[80];
+    char equipe[80];
+    char profissao[80];
+    char cidade[80];
+    //Mais seis elementos:
+    char comida_favo[80];
+    char estilo_musi[80];
+    char genero_film[80];
+    char genero_seri[80];
+    char hobbie[80];
+    char sonho[80];
+}registrado;
+
+registrado pessoa;
+
 //Exigencias 25 PRÉ-Cadastrados, N°Itens 15, Peso;
 // 2 Arquivos, 1 deles guarda os registrados e o outro guarda uma tabela de afinidades (ex.: João x Mario grau 10);
 // data prazo final 3 Setembro entrega.
@@ -65,22 +95,80 @@ void Menu_Style_Win() {
     printf("!Entre com o número da opção desejada!\n>> ");
 }
 
+//Funções
+void Registrar() {
+    char Data[10];
+    printf("\n\n...Abrindo Registro.");
+    printf("\n-== Registre o Individuo ==-\n");
+    printf("Nome: "); scanf("%s",pessoa.nome);
+    fflush(stdin);
+    printf("Idade: "); scanf("%d",&pessoa.idade);
+    fflush(stdin);
+    //data
+    printf("Data 00/00: ");
+    scanf("%s", Data);
+    fflush(stdin);
+    pessoa.nascimento.dia = ((Data[0]-'0') * 10) + (Data[1]-'0');
+    pessoa.nascimento.mes = ((Data[3]-'0') * 10) + (Data[4]-'0');
+    pessoa.nascimento.ano = 2025-pessoa.idade;
+    printf("    Data Escolhida: %d/%d/%d", pessoa.nascimento.dia, pessoa.nascimento.mes, pessoa.nascimento.ano);
+    //continua
+    printf("\nEmail: "); scanf("%s",pessoa.email);
+    printf("Phone: "); scanf("%d",&pessoa.phone);
+    printf("Time: "); scanf("%s",pessoa.time);
+    printf("Equipe: "); scanf("%s",pessoa.equipe);
+    printf("Profissão: "); scanf("%s",pessoa.profissao);
+    printf("Cidade: "); scanf("%s",pessoa.cidade);
+    printf("Comida Favorita: "); scanf("%s",pessoa.comida_favo);
+    printf("Estilo Musical: "); scanf("%s",pessoa.estilo_musi);
+    printf("Genero Filme: "); scanf("%s",pessoa.genero_film);
+    printf("Genero Série: "); scanf("%s",pessoa.genero_seri);
+    printf("Hobbie: "); scanf("%s",pessoa.hobbie);
+    printf("Sonho: "); scanf("%s",pessoa.sonho);
+    //Cadastrado
+    printf("\n...Cadastrando\n");
+
+
+}
+
 int main () {
+    //Locale Troca para o pt_br
     setlocale(LC_ALL,"Portuguese");
 
-    //Variaveis;
+    //Variaveis
     int exit = 1;
+    int op;
 
     //Menu
     do {
-        //Troca de Menu para cada Sistema, Desabilite o define LinuxSystem se estiver usando Windows.
+        //Troca de Menu para cada Sistema, Desabilite o define LinuxSystem se estiver usando Windows
         if (LinuxSystem) Menu_Style_Linux();
         else Menu_Style_Win();
+
         //Entrada de Opções
-        int op;
         scanf("%d", &op);
         fflush(stdin);
-        if (op == 5) exit = 0;
+
+        //Ações
+        switch (op) {
+            case 1:
+                // Função Registra
+                Registrar();
+            break;
+            case 2:
+                // Função Pesquisa Caracteristica
+            break;
+            case 3:
+                // Buscar Afinidade entre dois Registrados
+            break;
+            case 4:
+                //Tabela de Afinidade
+            break;
+            case 5:
+                //Sair
+                exit = 0;
+            break;
+        }
 
     }while(exit);
 }
