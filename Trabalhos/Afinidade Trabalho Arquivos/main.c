@@ -1,9 +1,9 @@
 #include <stdio.h> // <-- Possui o FILE Aqui.
 #include <stdlib.h>
 #include <locale.h>
+#include <string.h>
 
 #define LinuxSystem 1 
-
 
 //Structs
 typedef struct {
@@ -33,6 +33,7 @@ typedef struct {
 }registrado;
 
 registrado pessoa;
+registrado le_pessoa;
 
 //Exigencias 25 PRÉ-Cadastrados, N°Itens 15, Peso;
 // 2 Arquivos, 1 deles guarda os registrados e o outro guarda uma tabela de afinidades (ex.: João x Mario grau 10);
@@ -97,6 +98,7 @@ void Menu_Style_Win() {
 
 //Funções
 void Registrar() {
+    
     char Data[10];
     printf("\n\n...Abrindo Registro.");
     printf("\n-== Registre o Individuo ==-\n");
@@ -125,10 +127,32 @@ void Registrar() {
     printf("Genero Série: "); scanf("%s",pessoa.genero_seri);
     printf("Hobbie: "); scanf("%s",pessoa.hobbie);
     printf("Sonho: "); scanf("%s",pessoa.sonho);
+    
     //Cadastrado
     printf("\n...Cadastrando\n");
 
+    FILE * myfile;
+    myfile = fopen("Registrados.bin", "a+b");
+    fwrite(&pessoa, sizeof(registrado), 1, myfile);
+    printf("Cadastrado.");
+    fclose(myfile);
 
+    // Puchando dados
+    printf(" \nDados: ");
+    FILE * fileread;
+    fileread = fopen("Registrados.bin", "r");
+
+    while(!feof(fileread))
+    {
+        fread(&le_pessoa, sizeof(registrado), 1, fileread);
+        if(!(strcmp(le_pessoa.nome, pessoa.nome))) {
+            break;
+        }
+    }
+    printf("%s %d %d/%d/%d %s",le_pessoa.nome, le_pessoa.idade, le_pessoa.nascimento.dia, le_pessoa.nascimento.mes, le_pessoa.nascimento.ano, le_pessoa.cidade);
+    printf("\nTel/Email: %d %s",le_pessoa.phone, le_pessoa.email);
+    printf("\nGostos: %s %s %s %s %s %s %s %s", le_pessoa.time, le_pessoa.equipe,le_pessoa.comida_favo, le_pessoa.estilo_musi, le_pessoa.genero_film, le_pessoa.genero_seri, le_pessoa.hobbie, le_pessoa.sonho);
+    fclose(fileread);
 }
 
 int main () {
