@@ -32,8 +32,8 @@ typedef struct {
     char sonho[80];
 }registrado;
 
-registrado pessoa;
-registrado le_pessoa;
+//registrado pessoa;
+//registrado le_pessoa;
 
 //Exigencias 25 PRÉ-Cadastrados, N°Itens 15, Peso;
 // 2 Arquivos, 1 deles guarda os registrados e o outro guarda uma tabela de afinidades (ex.: João x Mario grau 10);
@@ -96,72 +96,106 @@ void Menu_Style_Win() {
     printf("!Entre com o número da opção desejada!\n>> ");
 }
 
-//Funções
-void Registrar() {
+// //Funções
+// void Registrar() {
+//     char Data[10];
+//     printf("\n\n...Abrindo Registro.");
+//     printf("\n-== Registre o Individuo ==-\n");
+//     printf("Nome: "); scanf("%s",pessoa.nome);
+//     fflush(stdin);
+//     printf("Idade: "); scanf("%d",&pessoa.idade);
+//     fflush(stdin);
+//     //data
+//     printf("Data 00/00: ");
+//     scanf("%s", Data);
+//     fflush(stdin);
+//     pessoa.nascimento.dia = ((Data[0]-'0') * 10) + (Data[1]-'0');
+//     pessoa.nascimento.mes = ((Data[3]-'0') * 10) + (Data[4]-'0');
+//     pessoa.nascimento.ano = 2025-pessoa.idade;
+//     printf("    Data Escolhida: %d/%d/%d", pessoa.nascimento.dia, pessoa.nascimento.mes, pessoa.nascimento.ano);
+//     //continua
+//     printf("\nEmail: "); scanf("%s",pessoa.email);
+//     printf("Phone: "); scanf("%d",&pessoa.phone);
+//     printf("Time: "); scanf("%s",pessoa.time);
+//     printf("Equipe: "); scanf("%s",pessoa.equipe);
+//     printf("Profissão: "); scanf("%s",pessoa.profissao);
+//     printf("Cidade: "); scanf("%s",pessoa.cidade);
+//     printf("Comida Favorita: "); scanf("%s",pessoa.comida_favo);
+//     printf("Estilo Musical: "); scanf("%s",pessoa.estilo_musi);
+//     printf("Genero Filme: "); scanf("%s",pessoa.genero_film);
+//     printf("Genero Série: "); scanf("%s",pessoa.genero_seri);
+//     printf("Hobbie: "); scanf("%s",pessoa.hobbie);
+//     printf("Sonho: "); scanf("%s",pessoa.sonho);
     
+//     //Cadastrado
+//     printf("\n...Cadastrando\n");
+
+//     FILE * myfile;
+//     myfile = fopen("Registrados.bin", "a+b");
+//     fwrite(&pessoa, sizeof(registrado), 1, myfile);
+//     printf("Cadastrado.");
+//     fclose(myfile);
+
+//     // Puchando dados
+//     printf(" \nDados: ");
+//     FILE * fileread;
+//     fileread = fopen("Registrados.bin", "r");
+
+//     while(!feof(fileread))
+//     {
+//         fread(&le_pessoa, sizeof(registrado), 1, fileread);
+//         if(!(strcmp(plido->nome, pessoa.nome))) {
+//             break;
+//         }
+//     }
+//     printf("%s %d %d/%d/%d %s",plido->nome, plido->idade, plido->nascimento.dia, plido->nascimento.mes, plido->nascimento.ano, plido->cidade);
+//     printf("\nTel/Email: %d %s",plido->phone, plido->email);
+//     printf("\nGostos: %s %s %s %s %s %s %s %s", plido->time, plido->equipe,plido->comida_favo, plido->estilo_musi, plido->genero_film, plido->genero_seri, plido->hobbie, plido->sonho);
+//     fclose(fileread);
+// }
+
+void Preencher_Struct(registrado *p) {
     char Data[10];
     printf("\n\n...Abrindo Registro.");
     printf("\n-== Registre o Individuo ==-\n");
-    printf("Nome: "); scanf("%s",pessoa.nome);
-    fflush(stdin);
-    printf("Idade: "); scanf("%d",&pessoa.idade);
-    fflush(stdin);
-    //data
+    printf("Nome: "); scanf("%s", p->nome);
+    printf("Idade: "); scanf("%d", &p->idade);
+    // Data
     printf("Data 00/00: ");
     scanf("%s", Data);
-    fflush(stdin);
-    pessoa.nascimento.dia = ((Data[0]-'0') * 10) + (Data[1]-'0');
-    pessoa.nascimento.mes = ((Data[3]-'0') * 10) + (Data[4]-'0');
-    pessoa.nascimento.ano = 2025-pessoa.idade;
-    printf("    Data Escolhida: %d/%d/%d", pessoa.nascimento.dia, pessoa.nascimento.mes, pessoa.nascimento.ano);
-    //continua
-    printf("\nEmail: "); scanf("%s",pessoa.email);
-    printf("Phone: "); scanf("%d",&pessoa.phone);
-    printf("Time: "); scanf("%s",pessoa.time);
-    printf("Equipe: "); scanf("%s",pessoa.equipe);
-    printf("Profissão: "); scanf("%s",pessoa.profissao);
-    printf("Cidade: "); scanf("%s",pessoa.cidade);
-    printf("Comida Favorita: "); scanf("%s",pessoa.comida_favo);
-    printf("Estilo Musical: "); scanf("%s",pessoa.estilo_musi);
-    printf("Genero Filme: "); scanf("%s",pessoa.genero_film);
-    printf("Genero Série: "); scanf("%s",pessoa.genero_seri);
-    printf("Hobbie: "); scanf("%s",pessoa.hobbie);
-    printf("Sonho: "); scanf("%s",pessoa.sonho);
-    
-    //Cadastrado
-    printf("\n...Cadastrando\n");
+    p->nascimento.dia = ((Data[0]-'0') * 10) + (Data[1]-'0');
+    p->nascimento.mes = ((Data[3]-'0') * 10) + (Data[4]-'0');
+    p->nascimento.ano = 2025 - p->idade;
+    printf("    Data Escolhida: %d/%d/%d", p->nascimento.dia, p->nascimento.mes, p->nascimento.ano);
 
-    FILE * myfile;
-    myfile = fopen("Registrados.bin", "a+b");
-    fwrite(&pessoa, sizeof(registrado), 1, myfile);
+    printf("\nEmail: "); scanf("%s", p->email);
+    printf("Phone: "); scanf("%d", &p->phone);
+    printf("Time: "); scanf("%s", p->time);
+    printf("Equipe: "); scanf("%s", p->equipe);
+    printf("Profissão: "); scanf("%s", p->profissao);
+    printf("Cidade: "); scanf("%s", p->cidade);
+    printf("Comida Favorita: "); scanf("%s", p->comida_favo);
+    printf("Estilo Musical: "); scanf("%s", p->estilo_musi);
+    printf("Genero Filme: "); scanf("%s", p->genero_film);
+    printf("Genero Série: "); scanf("%s", p->genero_seri);
+    printf("Hobbie: "); scanf("%s", p->hobbie);
+    printf("Sonho: "); scanf("%s", p->sonho);
+
+    //Escrevendo Arquivo
+    FILE * ESCREVE_ARQUIVO;
+    ESCREVE_ARQUIVO = fopen("Registrados.bin", "a+b");
+    fwrite(p, sizeof(registrado), 1, ESCREVE_ARQUIVO);
     printf("Cadastrado.");
-    fclose(myfile);
-
-    // Puchando dados
-    printf(" \nDados: ");
-    FILE * fileread;
-    fileread = fopen("Registrados.bin", "r");
-
-    while(!feof(fileread))
-    {
-        fread(&le_pessoa, sizeof(registrado), 1, fileread);
-        if(!(strcmp(le_pessoa.nome, pessoa.nome))) {
-            break;
-        }
-    }
-    printf("%s %d %d/%d/%d %s",le_pessoa.nome, le_pessoa.idade, le_pessoa.nascimento.dia, le_pessoa.nascimento.mes, le_pessoa.nascimento.ano, le_pessoa.cidade);
-    printf("\nTel/Email: %d %s",le_pessoa.phone, le_pessoa.email);
-    printf("\nGostos: %s %s %s %s %s %s %s %s", le_pessoa.time, le_pessoa.equipe,le_pessoa.comida_favo, le_pessoa.estilo_musi, le_pessoa.genero_film, le_pessoa.genero_seri, le_pessoa.hobbie, le_pessoa.sonho);
-    fclose(fileread);
+    fclose(ESCREVE_ARQUIVO);
 }
 
 int main () {
     //Locale Troca para o pt_br
     setlocale(LC_ALL,"Portuguese");
-
     //Variaveis
     int exit = 1;
     int op;
+    registrado pessoa;
 
     //Menu
     do {
@@ -177,7 +211,7 @@ int main () {
         switch (op) {
             case 1:
                 // Função Registra
-                Registrar();
+                Preencher_Struct(&pessoa);
             break;
             case 2:
                 // Função Pesquisa Caracteristica
@@ -193,6 +227,5 @@ int main () {
                 exit = 0;
             break;
         }
-
     }while(exit);
 }
