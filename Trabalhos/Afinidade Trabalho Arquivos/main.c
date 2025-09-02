@@ -222,15 +222,15 @@ int main () {
             break;
             case 2:
                 // Divisão de pesquisa
-                int caracteristica_numerica;
-                char caracteristica[100];
-                int categoria;
+                int caracteristica_numerica = -1;
+                char caracteristica[100] = "None";
+                int categoria = -1;
                 // 2° Menu interativo
                 printf("\n1> Nome\n2> Idade\n3> Email\n4> Telefone\n5> Time\n6> Equipe\n7> Profissão\n8> Cidade\n9> Gostos\n0>Voltar ao Menu");
                 printf("\nDigite o numero da categoria que deseja pesquisar >> ");
                 scanf("%d",&categoria);
                 if (categoria == 4 || categoria == 2) {
-                    printf("Digite a caracteristica: ");
+                    printf("Digite a caracteristica(Idade ou Telefone): ");
                     scanf("%d", &caracteristica_numerica);
                 }
                 else if (categoria == 0) {
