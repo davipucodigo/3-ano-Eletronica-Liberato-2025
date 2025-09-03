@@ -3,7 +3,7 @@
 #include <locale.h>
 #include <string.h>
 
-#define LinuxSystem 1 
+#define LinuxSystem 1
 
 //Structs
 typedef struct {
@@ -13,23 +13,24 @@ typedef struct {
 }data;
 
 typedef struct {
-    char nome[100];
-    int idade;
-    data nascimento;
-    char email[100];
-    long int phone;
+    char nome[100];     //--> Não usado para pontuar
+    int idade;                  //--> 1
+    data nascimento;            //--> 1
+    char email[100];    //--> Não usado para pontuar
+    long int phone;     //--> Não usado para pontuar
     // Elementos de grau de afinidade:
-    char time[80];
-    char equipe[80];
-    char profissao[80];
-    char cidade[80];
+    char time[80];              //--> 1
+    char equipe[80];            //--> 1
+    char profissao[80];         //--> 1
+    char cidade[80];            //--> 1
     //Mais seis elementos:
-    char comida_favo[80];
-    char estilo_musi[80];
-    char genero_film[80];
-    char genero_seri[80];
-    char hobbie[80];
-    char sonho[80];
+    char comida_favo[80];       //--> 1
+    char estilo_musi[80];       //--> 1
+    char genero_film[80];       //--> 1
+    char genero_seri[80];       //--> 1
+    char hobbie[80];            //--> 1
+    char sonho[80];             //--> 1
+    // Tudo peso 1, grau maximo de afinidade 12.
 }registrado;
 
 //registrado pessoa;
