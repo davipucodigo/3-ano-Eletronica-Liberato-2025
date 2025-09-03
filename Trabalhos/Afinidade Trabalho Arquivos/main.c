@@ -105,9 +105,7 @@ void Preencher_e_Gravar_Stuct(registrado *p) {
     printf("\n-== Registre o Individuo ==-\n");
 
     while (!nome_valido) {
-        getchar();
-        printf("Nome: "); scanf("%[^\n]", p->nome);
-        getchar();
+        printf("Nome: "); scanf("%s", p->nome);
 
         // Verifica se já existe no arquivo
         FILE *LE_ARQUIVO = fopen("Registrados.bin", "rb");
@@ -130,38 +128,25 @@ void Preencher_e_Gravar_Stuct(registrado *p) {
     
     printf("Idade: "); scanf("%d", &p->idade);
     // Data
-    getchar();
     printf("Data 00/00: ");
     scanf("%s", Data);
     p->nascimento.dia = ((Data[0]-'0') * 10) + (Data[1]-'0');
     p->nascimento.mes = ((Data[3]-'0') * 10) + (Data[4]-'0');
     p->nascimento.ano = 2025 - p->idade;
     printf("    Data Escolhida: %d/%d/%d", p->nascimento.dia, p->nascimento.mes, p->nascimento.ano);
-    getchar();
+
     printf("\nEmail: "); scanf("%s", p->email);
-    getchar();
     printf("Phone: "); scanf("%d", &p->phone);
-    getchar();
     printf("Time: "); scanf("%s", p->time);
-    getchar();
     printf("Equipe: "); scanf("%s", p->equipe);
-    getchar();
     printf("Profissão: "); scanf("%s", p->profissao);
-    getchar();
     printf("Cidade: "); scanf("%s", p->cidade);
-    getchar();
     printf("Comida Favorita: "); scanf("%s", p->comida_favo);
-    getchar();
     printf("Estilo Musical: "); scanf("%s", p->estilo_musi);
-    getchar();
     printf("Genero Filme: "); scanf("%s", p->genero_film);
-    getchar();
     printf("Genero Série: "); scanf("%s", p->genero_seri);
-    getchar();
     printf("Hobbie: "); scanf("%s", p->hobbie);
-    getchar();
     printf("Sonho: "); scanf("%s", p->sonho);
-    getchar();
 
     printf("\nRegistrando...[ ⭮ ], %s", p->nome);
     //Escrevendo Arquivo
