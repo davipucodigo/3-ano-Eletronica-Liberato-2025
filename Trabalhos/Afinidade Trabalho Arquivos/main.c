@@ -189,8 +189,28 @@ void Preencher_e_Gravar_Stuct(registrado *p) {
     fclose(ESCREVE_ARQUIVO);
 }
 
-void Pesquisar_Por_Caracteristicas(registrado *p, int n, char *c[100], int cn) {
-    //...
+void Gerar_Tabela_de_Afinidade() {
+    registrado pcompara;
+    registrado ppercorre;
+
+    FILE * COMPARA;
+    FILE * PERCORRE;
+    FILE * ESCREVE;
+
+    COMPARA = fopen("Registrados.bin", "rb");
+    PERCORRE = fopen("Registrados.bin", "rb");
+
+    while (fread(&pcompara, sizeof(registrado), 1, COMPARA)) {
+        while (fread(&ppercorre, sizeof(registrado), 1, PERCORRE)) {
+            //Essa é a ideia:
+            printf("\n%s ---> %s", pcompara.nome, ppercorre.nome);
+        }
+        fseek(PERCORRE, 0, SEEK_SET); //Volta pro inicio.
+    }
+
+    fclose(COMPARA);
+    fclose(PERCORRE);
+
 }
 
 int main () {
@@ -216,32 +236,33 @@ int main () {
         switch (op) {
             case 1:
                 // Função Registra
-                Preencher_e_Gravar_Stuct(&pessoa);
+                //Preencher_e_Gravar_Stuct(&pessoa);
+                Gerar_Tabela_de_Afinidade();
 
                 //Ideia propor a criação da tabela logo apos um registro de pessoa.
             break;
-            case 2:
-                // Divisão de pesquisa
-                int caracteristica_numerica = -1;
-                char caracteristica[100] = "None";
-                int categoria = -1;
-                // 2° Menu interativo
-                printf("\n1> Nome\n2> Idade\n3> Email\n4> Telefone\n5> Time\n6> Equipe\n7> Profissão\n8> Cidade\n9> Gostos\n0>Voltar ao Menu");
-                printf("\nDigite o numero da categoria que deseja pesquisar >> ");
-                scanf("%d",&categoria);
-                if (categoria == 4 || categoria == 2) {
-                    printf("Digite a caracteristica(Idade ou Telefone): ");
-                    scanf("%d", &caracteristica_numerica);
-                }
-                else if (categoria == 0) {
-                    break;
-                }
-                else {
-                    printf("Digite a caracteristica: ");
-                    scanf("%s", caracteristica);
-                }
-                // Função Pesquisa Caracteristica
-                Pesquisar_Por_Caracteristicas(&pessoa, categoria,caracteristica, caracteristica_numerica);
+            // case 2:
+            //     // Divisão de pesquisa
+            //     int caracteristica_numerica;
+            //     char caracteristica[100];
+            //     int categoria;
+            //     // 2° Menu interativo
+            //     printf("\n1> Nome\n2> Idade\n3> Email\n4> Telefone\n5> Time\n6> Equipe\n7> Profissão\n8> Cidade\n9> Gostos\n0>Voltar ao Menu");
+            //     printf("\nDigite o numero da categoria que deseja pesquisar >> ");
+            //     scanf("%d",&categoria);
+            //     if (categoria == 4 || categoria == 2) {
+            //         printf("Digite a caracteristica(Idade ou Telefone): ");
+            //         scanf("%d", &caracteristica_numerica);
+            //     }
+            //     else if (categoria == 0) {
+            //         break;
+            //     }
+            //     else {
+            //         printf("Digite a caracteristica: ");
+            //         scanf("%s", caracteristica);
+            //     }
+            //     // Função Pesquisa Caracteristica
+            //     Pesquisar_Por_Caracteristicas(&pessoa, categoria,caracteristica, caracteristica_numerica);
             break;
             case 3:
                 // Buscar Afinidade entre dois Registrados
