@@ -1,0 +1,7200 @@
+
+| Joao ---> Maria | Grau: 3
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria CasaPropria
+
+| Joao ---> Pedro | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Joao ---> Ana | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Mafia TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieC SerieD
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Joao ---> Lucas | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria Viajar
+
+| Joao ---> Beatriz | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Mafia Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria CasaPropria
+
+| Joao ---> Carlos | Grau: 0
+   Time: Palmeiras Flamengo
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieC SerieB
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Joao ---> Juliana | Grau: 0
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria Familia
+
+| Joao ---> Rafael | Grau: 0
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieC SerieE
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Viajar
+
+| Joao ---> Fernanda | Grau: 2
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Professor Tecnico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Joao ---> Bruno | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria Familia
+
+| Joao ---> Camila | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieC SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Joao ---> Gustavo | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Mafia TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria Viajar
+
+| Joao ---> Larissa | Grau: 7
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CasaPropria
+
+| Joao ---> Felipe | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieB
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria Sucesso
+
+| Joao ---> Carolina | Grau: 1
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: CasaPropria CarroNovo
+
+| Joao ---> Vitor | Grau: 0
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieC SerieE
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Familia
+
+| Joao ---> Patricia | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Joao ---> Mateus | Grau: 7
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: CasaPropria Viajar
+
+| Joao ---> Aline | Grau: 4
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieC SerieB
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria Sucesso
+
+| Joao ---> Tiago | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieC SerieE
+   Hobbie: Leitura Musica
+   Sonho: CasaPropria Familia
+
+| Joao ---> Mariana | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Mafia Mafia
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieE
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Joao ---> Diego | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Tecnico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieC SerieE
+   Hobbie: Leitura Musica
+   Sonho: CasaPropria Sucesso
+
+| Joao ---> Renata | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: Mafia Eletro
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Joao ---> Henrique | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieC SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Joao | Grau: 3
+   Time: Flamengo Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieC
+   Hobbie: Cinema Leitura
+   Sonho: CasaPropria CasaPropria
+
+| Maria ---> Pedro | Grau: 4
+   Time: Flamengo Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Maria ---> Ana | Grau: 1
+   Time: Flamengo Gremio
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: BeloHorizonte Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Lucas | Grau: 3
+   Time: Flamengo Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte Salvador
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CasaPropria Viajar
+
+| Maria ---> Beatriz | Grau: 2
+   Time: Flamengo Santos
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CasaPropria CasaPropria
+
+| Maria ---> Carlos | Grau: 1
+   Time: Flamengo Flamengo
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Maria ---> Juliana | Grau: 2
+   Time: Flamengo Flamengo
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Cinema
+   Sonho: CasaPropria Familia
+
+| Maria ---> Rafael | Grau: 2
+   Time: Flamengo Corinthians
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: BeloHorizonte Rio
+   Comida: Hamburguer Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria Viajar
+
+| Maria ---> Fernanda | Grau: 1
+   Time: Flamengo Palmeiras
+   Equipe: Tro TNT
+   Profissão: Medico Tecnico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Bruno | Grau: 2
+   Time: Flamengo Palmeiras
+   Equipe: Tro Tro
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte BeloHorizonte
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CasaPropria Familia
+
+| Maria ---> Camila | Grau: 3
+   Time: Flamengo Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: BeloHorizonte Curitiba
+   Comida: Hamburguer Churrasco
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Maria ---> Gustavo | Grau: 0
+   Time: Flamengo Corinthians
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: BeloHorizonte Salvador
+   Comida: Hamburguer Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CasaPropria Viajar
+
+| Maria ---> Larissa | Grau: 3
+   Time: Flamengo Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Hamburguer Lasanha
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria CasaPropria
+
+| Maria ---> Felipe | Grau: 2
+   Time: Flamengo Santos
+   Equipe: Tro Tro
+   Profissão: Medico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Hamburguer Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Leitura
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Carolina | Grau: 0
+   Time: Flamengo Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: CasaPropria CarroNovo
+
+| Maria ---> Vitor | Grau: 3
+   Time: Flamengo Corinthians
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: BeloHorizonte Salvador
+   Comida: Hamburguer Hamburguer
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria Familia
+
+| Maria ---> Patricia | Grau: 0
+   Time: Flamengo Corinthians
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Maria ---> Mateus | Grau: 2
+   Time: Flamengo Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: CasaPropria Viajar
+
+| Maria ---> Aline | Grau: 3
+   Time: Flamengo Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Cinema
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Tiago | Grau: 0
+   Time: Flamengo Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: BeloHorizonte Salvador
+   Comida: Hamburguer Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: CasaPropria Familia
+
+| Maria ---> Mariana | Grau: 1
+   Time: Flamengo Santos
+   Equipe: Tro Mafia
+   Profissão: Medico Advogado
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Maria ---> Diego | Grau: 2
+   Time: Flamengo Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Tecnico
+   Cidade: BeloHorizonte BeloHorizonte
+   Comida: Hamburguer Sushi
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Renata | Grau: 2
+   Time: Flamengo Gremio
+   Equipe: Tro Eletro
+   Profissão: Medico Advogado
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Hamburguer
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria Sucesso
+
+| Maria ---> Henrique | Grau: 2
+   Time: Flamengo Santos
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CasaPropria Sucesso
+
+| Pedro ---> Joao | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieC
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Pedro ---> Maria | Grau: 4
+   Time: Gremio Flamengo
+   Equipe: Mafia Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo CasaPropria
+
+| Pedro ---> Ana | Grau: 2
+   Time: Gremio Gremio
+   Equipe: Mafia TNT
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Pedro ---> Lucas | Grau: 3
+   Time: Gremio Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo Viajar
+
+| Pedro ---> Beatriz | Grau: 2
+   Time: Gremio Santos
+   Equipe: Mafia Eletro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Pedro ---> Carlos | Grau: 3
+   Time: Gremio Flamengo
+   Equipe: Mafia TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Pedro ---> Juliana | Grau: 3
+   Time: Gremio Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Eletronica Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo Familia
+
+| Pedro ---> Rafael | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: Mafia Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Lasanha
+   Estilo Musica: Eletronica Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Viajar
+
+| Pedro ---> Fernanda | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Medico Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Pedro ---> Bruno | Grau: 0
+   Time: Gremio Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo Familia
+
+| Pedro ---> Camila | Grau: 5
+   Time: Gremio Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Churrasco
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Pedro ---> Gustavo | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Mafia TNT
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo Viajar
+
+| Pedro ---> Larissa | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CasaPropria
+
+| Pedro ---> Felipe | Grau: 1
+   Time: Gremio Santos
+   Equipe: Mafia Tro
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo Sucesso
+
+| Pedro ---> Carolina | Grau: 1
+   Time: Gremio Santos
+   Equipe: Mafia TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: CarroNovo CarroNovo
+
+| Pedro ---> Vitor | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Mafia Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Familia
+
+| Pedro ---> Patricia | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Pedro ---> Mateus | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: CarroNovo Viajar
+
+| Pedro ---> Aline | Grau: 3
+   Time: Gremio Gremio
+   Equipe: Mafia Mafia
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo Sucesso
+
+| Pedro ---> Tiago | Grau: 0
+   Time: Gremio Santos
+   Equipe: Mafia TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: CarroNovo Familia
+
+| Pedro ---> Mariana | Grau: 4
+   Time: Gremio Santos
+   Equipe: Mafia Mafia
+   Profissão: Medico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Pedro ---> Diego | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Medico Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Sushi
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: CarroNovo Sucesso
+
+| Pedro ---> Renata | Grau: 3
+   Time: Gremio Gremio
+   Equipe: Mafia Eletro
+   Profissão: Medico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Pedro ---> Henrique | Grau: 3
+   Time: Gremio Santos
+   Equipe: Mafia Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Ana ---> Joao | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieC
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Ana ---> Maria | Grau: 1
+   Time: Gremio Flamengo
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CasaPropria
+
+| Ana ---> Pedro | Grau: 2
+   Time: Gremio Gremio
+   Equipe: TNT Mafia
+   Profissão: Professor Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Ana ---> Lucas | Grau: 3
+   Time: Gremio Corinthians
+   Equipe: TNT Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Rio Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Viajar
+
+| Ana ---> Beatriz | Grau: 1
+   Time: Gremio Santos
+   Equipe: TNT Eletro
+   Profissão: Professor Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Ana ---> Carlos | Grau: 2
+   Time: Gremio Flamengo
+   Equipe: TNT TNT
+   Profissão: Professor Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Comedia
+   Genero Série: SerieD SerieB
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Ana ---> Juliana | Grau: 0
+   Time: Gremio Flamengo
+   Equipe: TNT Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Acao Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Familia
+
+| Ana ---> Rafael | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Rio Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Acao Comedia
+   Genero Série: SerieD SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Viajar
+
+| Ana ---> Fernanda | Grau: 3
+   Time: Gremio Palmeiras
+   Equipe: TNT TNT
+   Profissão: Professor Tecnico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Ana ---> Bruno | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: TNT Tro
+   Profissão: Professor Engenheiro
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Familia
+
+| Ana ---> Camila | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: TNT Eletro
+   Profissão: Professor Medico
+   Cidade: Rio Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Drama
+   Genero Série: SerieD SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Ana ---> Gustavo | Grau: 4
+   Time: Gremio Corinthians
+   Equipe: TNT TNT
+   Profissão: Professor Professor
+   Cidade: Rio Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Acao
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Viajar
+
+| Ana ---> Larissa | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CasaPropria
+
+| Ana ---> Felipe | Grau: 3
+   Time: Gremio Santos
+   Equipe: TNT Tro
+   Profissão: Professor Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieB
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Sucesso
+
+| Ana ---> Carolina | Grau: 3
+   Time: Gremio Santos
+   Equipe: TNT TNT
+   Profissão: Professor Engenheiro
+   Cidade: Rio Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Ana ---> Vitor | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Rio Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Familia
+
+| Ana ---> Patricia | Grau: 3
+   Time: Gremio Corinthians
+   Equipe: TNT Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Rio Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Ana ---> Mateus | Grau: 3
+   Time: Gremio Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso Viajar
+
+| Ana ---> Aline | Grau: 3
+   Time: Gremio Gremio
+   Equipe: TNT Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Terror
+   Genero Série: SerieD SerieB
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Sucesso
+
+| Ana ---> Tiago | Grau: 2
+   Time: Gremio Santos
+   Equipe: TNT TNT
+   Profissão: Professor Engenheiro
+   Cidade: Rio Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Drama
+   Genero Série: SerieD SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Familia
+
+| Ana ---> Mariana | Grau: 1
+   Time: Gremio Santos
+   Equipe: TNT Mafia
+   Profissão: Professor Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Ana ---> Diego | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Tecnico
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Sucesso
+
+| Ana ---> Renata | Grau: 3
+   Time: Gremio Gremio
+   Equipe: TNT Eletro
+   Profissão: Professor Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Ana ---> Henrique | Grau: 2
+   Time: Gremio Santos
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Lucas ---> Joao | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieC
+   Hobbie: Cinema Leitura
+   Sonho: Viajar CasaPropria
+
+| Lucas ---> Maria | Grau: 3
+   Time: Corinthians Flamengo
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Viajar CasaPropria
+
+| Lucas ---> Pedro | Grau: 3
+   Time: Corinthians Gremio
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Viajar CarroNovo
+
+| Lucas ---> Ana | Grau: 3
+   Time: Corinthians Gremio
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Futebol
+   Sonho: Viajar Sucesso
+
+| Lucas ---> Beatriz | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Viajar CasaPropria
+
+| Lucas ---> Carlos | Grau: 1
+   Time: Corinthians Flamengo
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Futebol
+   Sonho: Viajar CarroNovo
+
+| Lucas ---> Juliana | Grau: 3
+   Time: Corinthians Flamengo
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Cinema
+   Sonho: Viajar Familia
+
+| Lucas ---> Rafael | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Viajar Viajar
+
+| Lucas ---> Fernanda | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Viajar Sucesso
+
+| Lucas ---> Bruno | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Viajar Familia
+
+| Lucas ---> Camila | Grau: 5
+   Time: Corinthians Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Viajar CarroNovo
+
+| Lucas ---> Gustavo | Grau: 3
+   Time: Corinthians Corinthians
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Viajar Viajar
+
+| Lucas ---> Larissa | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Viajar CasaPropria
+
+| Lucas ---> Felipe | Grau: 3
+   Time: Corinthians Santos
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Leitura
+   Sonho: Viajar Sucesso
+
+| Lucas ---> Carolina | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: Viajar CarroNovo
+
+| Lucas ---> Vitor | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Viajar Familia
+
+| Lucas ---> Patricia | Grau: 4
+   Time: Corinthians Corinthians
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Viajar CarroNovo
+
+| Lucas ---> Mateus | Grau: 4
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: Viajar Viajar
+
+| Lucas ---> Aline | Grau: 3
+   Time: Corinthians Gremio
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Cinema
+   Sonho: Viajar Sucesso
+
+| Lucas ---> Tiago | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: Viajar Familia
+
+| Lucas ---> Mariana | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Viajar CarroNovo
+
+| Lucas ---> Diego | Grau: 0
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: Salvador BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: Viajar Sucesso
+
+| Lucas ---> Renata | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Viajar Sucesso
+
+| Lucas ---> Henrique | Grau: 0
+   Time: Corinthians Santos
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Viajar Sucesso
+
+| Beatriz ---> Joao | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria CasaPropria
+
+| Beatriz ---> Maria | Grau: 2
+   Time: Santos Flamengo
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria CasaPropria
+
+| Beatriz ---> Pedro | Grau: 2
+   Time: Santos Gremio
+   Equipe: Eletro Mafia
+   Profissão: Medico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Beatriz ---> Ana | Grau: 1
+   Time: Santos Gremio
+   Equipe: Eletro TNT
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Lucas | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria Viajar
+
+| Beatriz ---> Carlos | Grau: 3
+   Time: Santos Flamengo
+   Equipe: Eletro TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Beatriz ---> Juliana | Grau: 3
+   Time: Santos Flamengo
+   Equipe: Eletro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria Familia
+
+| Beatriz ---> Rafael | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Viajar
+
+| Beatriz ---> Fernanda | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Eletro TNT
+   Profissão: Medico Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Bruno | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: Eletro Tro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria Familia
+
+| Beatriz ---> Camila | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Beatriz ---> Gustavo | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Eletro TNT
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria Viajar
+
+| Beatriz ---> Larissa | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CasaPropria
+
+| Beatriz ---> Felipe | Grau: 2
+   Time: Santos Santos
+   Equipe: Eletro Tro
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Leitura
+   Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Carolina | Grau: 5
+   Time: Santos Santos
+   Equipe: Eletro TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: CasaPropria CarroNovo
+
+| Beatriz ---> Vitor | Grau: 1
+   Time: Santos Corinthians
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Familia
+
+| Beatriz ---> Patricia | Grau: 3
+   Time: Santos Corinthians
+   Equipe: Eletro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Beatriz ---> Mateus | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: CasaPropria Viajar
+
+| Beatriz ---> Aline | Grau: 1
+   Time: Santos Gremio
+   Equipe: Eletro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Cinema
+   Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Tiago | Grau: 2
+   Time: Santos Santos
+   Equipe: Eletro TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Musica
+   Sonho: CasaPropria Familia
+
+| Beatriz ---> Mariana | Grau: 3
+   Time: Santos Santos
+   Equipe: Eletro Mafia
+   Profissão: Medico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Beatriz ---> Diego | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Musica
+   Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Renata | Grau: 4
+   Time: Santos Gremio
+   Equipe: Eletro Eletro
+   Profissão: Medico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Henrique | Grau: 5
+   Time: Santos Santos
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: CasaPropria Sucesso
+
+| Carlos ---> Joao | Grau: 0
+   Time: Flamengo Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieC
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Carlos ---> Maria | Grau: 1
+   Time: Flamengo Flamengo
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CasaPropria
+
+| Carlos ---> Pedro | Grau: 3
+   Time: Flamengo Gremio
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Carlos ---> Ana | Grau: 2
+   Time: Flamengo Gremio
+   Equipe: TNT TNT
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieB SerieD
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Carlos ---> Lucas | Grau: 1
+   Time: Flamengo Corinthians
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Viajar
+
+| Carlos ---> Beatriz | Grau: 3
+   Time: Flamengo Santos
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Carlos ---> Juliana | Grau: 3
+   Time: Flamengo Flamengo
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Comedia Drama
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Familia
+
+| Carlos ---> Rafael | Grau: 2
+   Time: Flamengo Corinthians
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieB SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Viajar
+
+| Carlos ---> Fernanda | Grau: 3
+   Time: Flamengo Palmeiras
+   Equipe: TNT TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Carlos ---> Bruno | Grau: 1
+   Time: Flamengo Palmeiras
+   Equipe: TNT Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Familia
+
+| Carlos ---> Camila | Grau: 2
+   Time: Flamengo Corinthians
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Churrasco
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Drama
+   Genero Série: SerieB SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Carlos ---> Gustavo | Grau: 1
+   Time: Flamengo Corinthians
+   Equipe: TNT TNT
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Viajar
+
+| Carlos ---> Larissa | Grau: 1
+   Time: Flamengo Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CasaPropria
+
+| Carlos ---> Felipe | Grau: 1
+   Time: Flamengo Santos
+   Equipe: TNT Tro
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieB
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Sucesso
+
+| Carlos ---> Carolina | Grau: 4
+   Time: Flamengo Santos
+   Equipe: TNT TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Drama
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CarroNovo CarroNovo
+
+| Carlos ---> Vitor | Grau: 1
+   Time: Flamengo Corinthians
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieB SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Familia
+
+| Carlos ---> Patricia | Grau: 4
+   Time: Flamengo Corinthians
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Carlos ---> Mateus | Grau: 0
+   Time: Flamengo Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CarroNovo Viajar
+
+| Carlos ---> Aline | Grau: 2
+   Time: Flamengo Gremio
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieB SerieB
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Sucesso
+
+| Carlos ---> Tiago | Grau: 2
+   Time: Flamengo Santos
+   Equipe: TNT TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Comedia Drama
+   Genero Série: SerieB SerieE
+   Hobbie: Futebol Musica
+   Sonho: CarroNovo Familia
+
+| Carlos ---> Mariana | Grau: 4
+   Time: Flamengo Santos
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Carlos ---> Diego | Grau: 0
+   Time: Flamengo Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Sushi
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieB SerieE
+   Hobbie: Futebol Musica
+   Sonho: CarroNovo Sucesso
+
+| Carlos ---> Renata | Grau: 3
+   Time: Flamengo Gremio
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Carlos ---> Henrique | Grau: 4
+   Time: Flamengo Santos
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Comedia Terror
+   Genero Série: SerieB SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Juliana ---> Joao | Grau: 0
+   Time: Flamengo Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Cinema Leitura
+   Sonho: Familia CasaPropria
+
+| Juliana ---> Maria | Grau: 2
+   Time: Flamengo Flamengo
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Familia CasaPropria
+
+| Juliana ---> Pedro | Grau: 3
+   Time: Flamengo Gremio
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Eletronica
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Familia CarroNovo
+
+| Juliana ---> Ana | Grau: 0
+   Time: Flamengo Gremio
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Cinema Futebol
+   Sonho: Familia Sucesso
+
+| Juliana ---> Lucas | Grau: 3
+   Time: Flamengo Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Familia Viajar
+
+| Juliana ---> Beatriz | Grau: 3
+   Time: Flamengo Santos
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Familia CasaPropria
+
+| Juliana ---> Carlos | Grau: 3
+   Time: Flamengo Flamengo
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Cinema Futebol
+   Sonho: Familia CarroNovo
+
+| Juliana ---> Rafael | Grau: 2
+   Time: Flamengo Corinthians
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Eletronica
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Familia Viajar
+
+| Juliana ---> Fernanda | Grau: 3
+   Time: Flamengo Palmeiras
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Familia Sucesso
+
+| Juliana ---> Bruno | Grau: 3
+   Time: Flamengo Palmeiras
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Familia Familia
+
+| Juliana ---> Camila | Grau: 3
+   Time: Flamengo Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Drama Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Familia CarroNovo
+
+| Juliana ---> Gustavo | Grau: 1
+   Time: Flamengo Corinthians
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Familia Viajar
+
+| Juliana ---> Larissa | Grau: 2
+   Time: Flamengo Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Familia CasaPropria
+
+| Juliana ---> Felipe | Grau: 1
+   Time: Flamengo Santos
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Cinema Leitura
+   Sonho: Familia Sucesso
+
+| Juliana ---> Carolina | Grau: 3
+   Time: Flamengo Santos
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Drama Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: Familia CarroNovo
+
+| Juliana ---> Vitor | Grau: 2
+   Time: Flamengo Corinthians
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Familia Familia
+
+| Juliana ---> Patricia | Grau: 2
+   Time: Flamengo Corinthians
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Familia CarroNovo
+
+| Juliana ---> Mateus | Grau: 1
+   Time: Flamengo Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: Familia Viajar
+
+| Juliana ---> Aline | Grau: 2
+   Time: Flamengo Gremio
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Cinema Cinema
+   Sonho: Familia Sucesso
+
+| Juliana ---> Tiago | Grau: 3
+   Time: Flamengo Santos
+   Equipe: Eletro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Drama Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Cinema Musica
+   Sonho: Familia Familia
+
+| Juliana ---> Mariana | Grau: 2
+   Time: Flamengo Santos
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Familia CarroNovo
+
+| Juliana ---> Diego | Grau: 0
+   Time: Flamengo Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Sushi
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Cinema Musica
+   Sonho: Familia Sucesso
+
+| Juliana ---> Renata | Grau: 3
+   Time: Flamengo Gremio
+   Equipe: Eletro Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Familia Sucesso
+
+| Juliana ---> Henrique | Grau: 2
+   Time: Flamengo Santos
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Familia Sucesso
+
+| Rafael ---> Joao | Grau: 0
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: Rio Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieC
+   Hobbie: Futebol Leitura
+   Sonho: Viajar CasaPropria
+
+| Rafael ---> Maria | Grau: 2
+   Time: Corinthians Flamengo
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: Rio BeloHorizonte
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Viajar CasaPropria
+
+| Rafael ---> Pedro | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Medico
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Eletronica
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Viajar CarroNovo
+
+| Rafael ---> Ana | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: Rio Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Futebol
+   Sonho: Viajar Sucesso
+
+| Rafael ---> Lucas | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: Rio Salvador
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Viajar Viajar
+
+| Rafael ---> Beatriz | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Viajar CasaPropria
+
+| Rafael ---> Carlos | Grau: 2
+   Time: Corinthians Flamengo
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Futebol
+   Sonho: Viajar CarroNovo
+
+| Rafael ---> Juliana | Grau: 2
+   Time: Corinthians Flamengo
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Eletronica
+   Genero Filme: Comedia Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Cinema
+   Sonho: Viajar Familia
+
+| Rafael ---> Fernanda | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Tro TNT
+   Profissão: Medico Tecnico
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Viajar Sucesso
+
+| Rafael ---> Bruno | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Tro Tro
+   Profissão: Medico Engenheiro
+   Cidade: Rio BeloHorizonte
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Viajar Familia
+
+| Rafael ---> Camila | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: Rio Curitiba
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Comedia Drama
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Viajar CarroNovo
+
+| Rafael ---> Gustavo | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: Rio Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Viajar Viajar
+
+| Rafael ---> Larissa | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: Rio Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Viajar CasaPropria
+
+| Rafael ---> Felipe | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Tro Tro
+   Profissão: Medico Professor
+   Cidade: Rio Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Leitura
+   Sonho: Viajar Sucesso
+
+| Rafael ---> Carolina | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Rio Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Comedia Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Viajar CarroNovo
+
+| Rafael ---> Vitor | Grau: 5
+   Time: Corinthians Corinthians
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: Rio Salvador
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Viajar Familia
+
+| Rafael ---> Patricia | Grau: 4
+   Time: Corinthians Corinthians
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: Rio Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica Rock
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Viajar CarroNovo
+
+| Rafael ---> Mateus | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: Rio Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Viajar Viajar
+
+| Rafael ---> Aline | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: Rio Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Cinema
+   Sonho: Viajar Sucesso
+
+| Rafael ---> Tiago | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Rio Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Eletronica Pop
+   Genero Filme: Comedia Drama
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Musica
+   Sonho: Viajar Familia
+
+| Rafael ---> Mariana | Grau: 3
+   Time: Corinthians Santos
+   Equipe: Tro Mafia
+   Profissão: Medico Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Viajar CarroNovo
+
+| Rafael ---> Diego | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Tecnico
+   Cidade: Rio BeloHorizonte
+   Comida: Lasanha Sushi
+   Estilo Musica: Eletronica HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Musica
+   Sonho: Viajar Sucesso
+
+| Rafael ---> Renata | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Tro Eletro
+   Profissão: Medico Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Viajar Sucesso
+
+| Rafael ---> Henrique | Grau: 3
+   Time: Corinthians Santos
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: Rio SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Eletronica Sertanejo
+   Genero Filme: Comedia Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Viajar Sucesso
+
+| Fernanda ---> Joao | Grau: 2
+   Time: Palmeiras Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Tecnico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Fernanda ---> Maria | Grau: 1
+   Time: Palmeiras Flamengo
+   Equipe: TNT Tro
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CasaPropria
+
+| Fernanda ---> Pedro | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: TNT Mafia
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Fernanda ---> Ana | Grau: 3
+   Time: Palmeiras Gremio
+   Equipe: TNT TNT
+   Profissão: Tecnico Professor
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Fernanda ---> Lucas | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: TNT Eletro
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Viajar
+
+| Fernanda ---> Beatriz | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: TNT Eletro
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Fernanda ---> Carlos | Grau: 3
+   Time: Palmeiras Flamengo
+   Equipe: TNT TNT
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Fernanda ---> Juliana | Grau: 3
+   Time: Palmeiras Flamengo
+   Equipe: TNT Eletro
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Familia
+
+| Fernanda ---> Rafael | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: TNT Tro
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Viajar
+
+| Fernanda ---> Bruno | Grau: 2
+   Time: Palmeiras Palmeiras
+   Equipe: TNT Tro
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Familia
+
+| Fernanda ---> Camila | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: TNT Eletro
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Fernanda ---> Gustavo | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: TNT TNT
+   Profissão: Tecnico Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Viajar
+
+| Fernanda ---> Larissa | Grau: 5
+   Time: Palmeiras Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Tecnico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CasaPropria
+
+| Fernanda ---> Felipe | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: TNT Tro
+   Profissão: Tecnico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Sucesso
+
+| Fernanda ---> Carolina | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: TNT TNT
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Fernanda ---> Vitor | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: TNT Tro
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Familia
+
+| Fernanda ---> Patricia | Grau: 3
+   Time: Palmeiras Corinthians
+   Equipe: TNT Mafia
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Fernanda ---> Mateus | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Tecnico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso Viajar
+
+| Fernanda ---> Aline | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: TNT Mafia
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Sucesso
+
+| Fernanda ---> Tiago | Grau: 1
+   Time: Palmeiras Santos
+   Equipe: TNT TNT
+   Profissão: Tecnico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Familia
+
+| Fernanda ---> Mariana | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: TNT Mafia
+   Profissão: Tecnico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Fernanda ---> Diego | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Tecnico Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Sushi
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Sucesso
+
+| Fernanda ---> Renata | Grau: 5
+   Time: Palmeiras Gremio
+   Equipe: TNT Eletro
+   Profissão: Tecnico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Fernanda ---> Henrique | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: TNT Tro
+   Profissão: Tecnico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Bruno ---> Joao | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Leitura Leitura
+   Sonho: Familia CasaPropria
+
+| Bruno ---> Maria | Grau: 2
+   Time: Palmeiras Flamengo
+   Equipe: Tro Tro
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Familia CasaPropria
+
+| Bruno ---> Pedro | Grau: 0
+   Time: Palmeiras Gremio
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Familia CarroNovo
+
+| Bruno ---> Ana | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Tro TNT
+   Profissão: Engenheiro Professor
+   Cidade: BeloHorizonte Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Futebol
+   Sonho: Familia Sucesso
+
+| Bruno ---> Lucas | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Tro Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Familia Viajar
+
+| Bruno ---> Beatriz | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Tro Eletro
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Familia CasaPropria
+
+| Bruno ---> Carlos | Grau: 1
+   Time: Palmeiras Flamengo
+   Equipe: Tro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Futebol
+   Sonho: Familia CarroNovo
+
+| Bruno ---> Juliana | Grau: 3
+   Time: Palmeiras Flamengo
+   Equipe: Tro Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Cinema
+   Sonho: Familia Familia
+
+| Bruno ---> Rafael | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Tro Tro
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Familia Viajar
+
+| Bruno ---> Fernanda | Grau: 2
+   Time: Palmeiras Palmeiras
+   Equipe: Tro TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Familia Sucesso
+
+| Bruno ---> Camila | Grau: 0
+   Time: Palmeiras Corinthians
+   Equipe: Tro Eletro
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Familia CarroNovo
+
+| Bruno ---> Gustavo | Grau: 3
+   Time: Palmeiras Corinthians
+   Equipe: Tro TNT
+   Profissão: Engenheiro Professor
+   Cidade: BeloHorizonte Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Familia Viajar
+
+| Bruno ---> Larissa | Grau: 2
+   Time: Palmeiras Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Familia CasaPropria
+
+| Bruno ---> Felipe | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Tro Tro
+   Profissão: Engenheiro Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Leitura
+   Sonho: Familia Sucesso
+
+| Bruno ---> Carolina | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Tro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: Familia CarroNovo
+
+| Bruno ---> Vitor | Grau: 4
+   Time: Palmeiras Corinthians
+   Equipe: Tro Tro
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Familia Familia
+
+| Bruno ---> Patricia | Grau: 3
+   Time: Palmeiras Corinthians
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Familia CarroNovo
+
+| Bruno ---> Mateus | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: Familia Viajar
+
+| Bruno ---> Aline | Grau: 3
+   Time: Palmeiras Gremio
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Cinema
+   Sonho: Familia Sucesso
+
+| Bruno ---> Tiago | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Tro TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: BeloHorizonte Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Musica
+   Sonho: Familia Familia
+
+| Bruno ---> Mariana | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Familia CarroNovo
+
+| Bruno ---> Diego | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: BeloHorizonte BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Musica
+   Sonho: Familia Sucesso
+
+| Bruno ---> Renata | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: Tro Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Familia Sucesso
+
+| Bruno ---> Henrique | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Tro Tro
+   Profissão: Engenheiro Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Familia Sucesso
+
+| Camila ---> Joao | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Professor
+   Cidade: Curitiba Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieC
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Camila ---> Maria | Grau: 3
+   Time: Corinthians Flamengo
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Rock HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo CasaPropria
+
+| Camila ---> Pedro | Grau: 5
+   Time: Corinthians Gremio
+   Equipe: Eletro Mafia
+   Profissão: Medico Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Camila ---> Ana | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Eletro TNT
+   Profissão: Medico Professor
+   Cidade: Curitiba Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Camila ---> Lucas | Grau: 5
+   Time: Corinthians Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieD
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo Viajar
+
+| Camila ---> Beatriz | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro Eletro
+   Profissão: Medico Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Camila ---> Carlos | Grau: 2
+   Time: Corinthians Flamengo
+   Equipe: Eletro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Camila ---> Juliana | Grau: 3
+   Time: Corinthians Flamengo
+   Equipe: Eletro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Drama Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo Familia
+
+| Camila ---> Rafael | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: Curitiba Rio
+   Comida: Churrasco Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Drama Comedia
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Viajar
+
+| Camila ---> Fernanda | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Eletro TNT
+   Profissão: Medico Tecnico
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Camila ---> Bruno | Grau: 0
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Tro
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba BeloHorizonte
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo Familia
+
+| Camila ---> Gustavo | Grau: 1
+   Time: Corinthians Corinthians
+   Equipe: Eletro TNT
+   Profissão: Medico Professor
+   Cidade: Curitiba Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo Viajar
+
+| Camila ---> Larissa | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Professor
+   Cidade: Curitiba Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Rock HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CasaPropria
+
+| Camila ---> Felipe | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro Tro
+   Profissão: Medico Professor
+   Cidade: Curitiba Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Leitura
+   Sonho: CarroNovo Sucesso
+
+| Camila ---> Carolina | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Drama Drama
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: CarroNovo CarroNovo
+
+| Camila ---> Vitor | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: Curitiba Salvador
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Rock Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Familia
+
+| Camila ---> Patricia | Grau: 3
+   Time: Corinthians Corinthians
+   Equipe: Eletro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Drama Comedia
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Camila ---> Mateus | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Professor
+   Cidade: Curitiba Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: CarroNovo Viajar
+
+| Camila ---> Aline | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Eletro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieD SerieB
+   Hobbie: Cinema Cinema
+   Sonho: CarroNovo Sucesso
+
+| Camila ---> Tiago | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Eletro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Drama Drama
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: CarroNovo Familia
+
+| Camila ---> Mariana | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Eletro Mafia
+   Profissão: Medico Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Camila ---> Diego | Grau: 0
+   Time: Corinthians Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Medico Tecnico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Churrasco Sushi
+   Estilo Musica: Rock HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieD SerieE
+   Hobbie: Cinema Musica
+   Sonho: CarroNovo Sucesso
+
+| Camila ---> Renata | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Eletro Eletro
+   Profissão: Medico Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Camila ---> Henrique | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Eletro Tro
+   Profissão: Medico Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Drama Terror
+   Genero Série: SerieD SerieA
+   Hobbie: Cinema Futebol
+   Sonho: CarroNovo Sucesso
+
+| Gustavo ---> Joao | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Leitura Leitura
+   Sonho: Viajar CasaPropria
+
+| Gustavo ---> Maria | Grau: 0
+   Time: Corinthians Flamengo
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Salvador BeloHorizonte
+   Comida: Sushi Hamburguer
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Viajar CasaPropria
+
+| Gustavo ---> Pedro | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: TNT Mafia
+   Profissão: Professor Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Viajar CarroNovo
+
+| Gustavo ---> Ana | Grau: 4
+   Time: Corinthians Gremio
+   Equipe: TNT TNT
+   Profissão: Professor Professor
+   Cidade: Salvador Rio
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Futebol
+   Sonho: Viajar Sucesso
+
+| Gustavo ---> Lucas | Grau: 3
+   Time: Corinthians Corinthians
+   Equipe: TNT Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Salvador Salvador
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Viajar Viajar
+
+| Gustavo ---> Beatriz | Grau: 2
+   Time: Corinthians Santos
+   Equipe: TNT Eletro
+   Profissão: Professor Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Viajar CasaPropria
+
+| Gustavo ---> Carlos | Grau: 1
+   Time: Corinthians Flamengo
+   Equipe: TNT TNT
+   Profissão: Professor Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Futebol
+   Sonho: Viajar CarroNovo
+
+| Gustavo ---> Juliana | Grau: 1
+   Time: Corinthians Flamengo
+   Equipe: TNT Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Acao Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Cinema
+   Sonho: Viajar Familia
+
+| Gustavo ---> Rafael | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Salvador Rio
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Acao Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Viajar Viajar
+
+| Gustavo ---> Fernanda | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: TNT TNT
+   Profissão: Professor Tecnico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Viajar Sucesso
+
+| Gustavo ---> Bruno | Grau: 3
+   Time: Corinthians Palmeiras
+   Equipe: TNT Tro
+   Profissão: Professor Engenheiro
+   Cidade: Salvador BeloHorizonte
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Viajar Familia
+
+| Gustavo ---> Camila | Grau: 1
+   Time: Corinthians Corinthians
+   Equipe: TNT Eletro
+   Profissão: Professor Medico
+   Cidade: Salvador Curitiba
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Viajar CarroNovo
+
+| Gustavo ---> Larissa | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Viajar CasaPropria
+
+| Gustavo ---> Felipe | Grau: 2
+   Time: Corinthians Santos
+   Equipe: TNT Tro
+   Profissão: Professor Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Leitura
+   Sonho: Viajar Sucesso
+
+| Gustavo ---> Carolina | Grau: 2
+   Time: Corinthians Santos
+   Equipe: TNT TNT
+   Profissão: Professor Engenheiro
+   Cidade: Salvador Rio
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: Viajar CarroNovo
+
+| Gustavo ---> Vitor | Grau: 3
+   Time: Corinthians Corinthians
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Salvador Salvador
+   Comida: Sushi Hamburguer
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Viajar Familia
+
+| Gustavo ---> Patricia | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: TNT Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Salvador Rio
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Acao Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Viajar CarroNovo
+
+| Gustavo ---> Mateus | Grau: 3
+   Time: Corinthians Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: Viajar Viajar
+
+| Gustavo ---> Aline | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: TNT Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Salvador Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Leitura Cinema
+   Sonho: Viajar Sucesso
+
+| Gustavo ---> Tiago | Grau: 4
+   Time: Corinthians Santos
+   Equipe: TNT TNT
+   Profissão: Professor Engenheiro
+   Cidade: Salvador Salvador
+   Comida: Sushi Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Acao Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Musica
+   Sonho: Viajar Familia
+
+| Gustavo ---> Mariana | Grau: 0
+   Time: Corinthians Santos
+   Equipe: TNT Mafia
+   Profissão: Professor Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Viajar CarroNovo
+
+| Gustavo ---> Diego | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Professor Tecnico
+   Cidade: Salvador BeloHorizonte
+   Comida: Sushi Sushi
+   Estilo Musica: Pop HipHop
+   Genero Filme: Acao Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Leitura Musica
+   Sonho: Viajar Sucesso
+
+| Gustavo ---> Renata | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: TNT Eletro
+   Profissão: Professor Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Hamburguer
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Viajar Sucesso
+
+| Gustavo ---> Henrique | Grau: 1
+   Time: Corinthians Santos
+   Equipe: TNT Tro
+   Profissão: Professor Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Acao Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Viajar Sucesso
+
+| Larissa ---> Joao | Grau: 7
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Futebol Leitura
+   Sonho: CasaPropria CasaPropria
+
+| Larissa ---> Maria | Grau: 3
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Lasanha Hamburguer
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CasaPropria CasaPropria
+
+| Larissa ---> Pedro | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Larissa ---> Ana | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Mafia TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria Sucesso
+
+| Larissa ---> Lucas | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CasaPropria Viajar
+
+| Larissa ---> Beatriz | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Mafia Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CasaPropria CasaPropria
+
+| Larissa ---> Carlos | Grau: 1
+   Time: Palmeiras Flamengo
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Larissa ---> Juliana | Grau: 2
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Cinema
+   Sonho: CasaPropria Familia
+
+| Larissa ---> Rafael | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Rio
+   Comida: Lasanha Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria Viajar
+
+| Larissa ---> Fernanda | Grau: 5
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Professor Tecnico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria Sucesso
+
+| Larissa ---> Bruno | Grau: 2
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba BeloHorizonte
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CasaPropria Familia
+
+| Larissa ---> Camila | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Churrasco
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CasaPropria CarroNovo
+
+| Larissa ---> Gustavo | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Mafia TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CasaPropria Viajar
+
+| Larissa ---> Felipe | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Leitura
+   Sonho: CasaPropria Sucesso
+
+| Larissa ---> Carolina | Grau: 1
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CasaPropria CarroNovo
+
+| Larissa ---> Vitor | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Hamburguer
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria Familia
+
+| Larissa ---> Patricia | Grau: 3
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Larissa ---> Mateus | Grau: 7
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CasaPropria Viajar
+
+| Larissa ---> Aline | Grau: 3
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Cinema
+   Sonho: CasaPropria Sucesso
+
+| Larissa ---> Tiago | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: CasaPropria Familia
+
+| Larissa ---> Mariana | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: Mafia Mafia
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria CarroNovo
+
+| Larissa ---> Diego | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Tecnico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Lasanha Sushi
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: CasaPropria Sucesso
+
+| Larissa ---> Renata | Grau: 3
+   Time: Palmeiras Gremio
+   Equipe: Mafia Eletro
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Hamburguer
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria Sucesso
+
+| Larissa ---> Henrique | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CasaPropria Sucesso
+
+| Felipe ---> Joao | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieC
+   Hobbie: Leitura Leitura
+   Sonho: Sucesso CasaPropria
+
+| Felipe ---> Maria | Grau: 2
+   Time: Santos Flamengo
+   Equipe: Tro Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Sucesso CasaPropria
+
+| Felipe ---> Pedro | Grau: 1
+   Time: Santos Gremio
+   Equipe: Tro Mafia
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Sucesso CarroNovo
+
+| Felipe ---> Ana | Grau: 3
+   Time: Santos Gremio
+   Equipe: Tro TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieB SerieD
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso Sucesso
+
+| Felipe ---> Lucas | Grau: 3
+   Time: Santos Corinthians
+   Equipe: Tro Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Sucesso Viajar
+
+| Felipe ---> Beatriz | Grau: 2
+   Time: Santos Santos
+   Equipe: Tro Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Sucesso CasaPropria
+
+| Felipe ---> Carlos | Grau: 1
+   Time: Santos Flamengo
+   Equipe: Tro TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieB SerieB
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso CarroNovo
+
+| Felipe ---> Juliana | Grau: 1
+   Time: Santos Flamengo
+   Equipe: Tro Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Cinema
+   Sonho: Sucesso Familia
+
+| Felipe ---> Rafael | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Tro Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Rio
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieB SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso Viajar
+
+| Felipe ---> Fernanda | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Tro TNT
+   Profissão: Professor Tecnico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso Sucesso
+
+| Felipe ---> Bruno | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Tro Tro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba BeloHorizonte
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Sucesso Familia
+
+| Felipe ---> Camila | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Tro Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieB SerieD
+   Hobbie: Leitura Cinema
+   Sonho: Sucesso CarroNovo
+
+| Felipe ---> Gustavo | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Tro TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Leitura
+   Sonho: Sucesso Viajar
+
+| Felipe ---> Larissa | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso CasaPropria
+
+| Felipe ---> Carolina | Grau: 1
+   Time: Santos Santos
+   Equipe: Tro TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Felipe ---> Vitor | Grau: 1
+   Time: Santos Corinthians
+   Equipe: Tro Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieB SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso Familia
+
+| Felipe ---> Patricia | Grau: 1
+   Time: Santos Corinthians
+   Equipe: Tro Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso CarroNovo
+
+| Felipe ---> Mateus | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura VideoGame
+   Sonho: Sucesso Viajar
+
+| Felipe ---> Aline | Grau: 3
+   Time: Santos Gremio
+   Equipe: Tro Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieB SerieB
+   Hobbie: Leitura Cinema
+   Sonho: Sucesso Sucesso
+
+| Felipe ---> Tiago | Grau: 1
+   Time: Santos Santos
+   Equipe: Tro TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieB SerieE
+   Hobbie: Leitura Musica
+   Sonho: Sucesso Familia
+
+| Felipe ---> Mariana | Grau: 3
+   Time: Santos Santos
+   Equipe: Tro Mafia
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieE
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso CarroNovo
+
+| Felipe ---> Diego | Grau: 1
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Professor Tecnico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Lasanha Sushi
+   Estilo Musica: Rock HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieB SerieE
+   Hobbie: Leitura Musica
+   Sonho: Sucesso Sucesso
+
+| Felipe ---> Renata | Grau: 2
+   Time: Santos Gremio
+   Equipe: Tro Eletro
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso Sucesso
+
+| Felipe ---> Henrique | Grau: 3
+   Time: Santos Santos
+   Equipe: Tro Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieB SerieA
+   Hobbie: Leitura Futebol
+   Sonho: Sucesso Sucesso
+
+| Carolina ---> Joao | Grau: 1
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: VideoGame Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Carolina ---> Maria | Grau: 0
+   Time: Santos Flamengo
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: CarroNovo CasaPropria
+
+| Carolina ---> Pedro | Grau: 1
+   Time: Santos Gremio
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Carolina ---> Ana | Grau: 3
+   Time: Santos Gremio
+   Equipe: TNT TNT
+   Profissão: Engenheiro Professor
+   Cidade: Rio Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo Sucesso
+
+| Carolina ---> Lucas | Grau: 2
+   Time: Santos Corinthians
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: CarroNovo Viajar
+
+| Carolina ---> Beatriz | Grau: 5
+   Time: Santos Santos
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Carolina ---> Carlos | Grau: 4
+   Time: Santos Flamengo
+   Equipe: TNT TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Carolina ---> Juliana | Grau: 3
+   Time: Santos Flamengo
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Drama Drama
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Cinema
+   Sonho: CarroNovo Familia
+
+| Carolina ---> Rafael | Grau: 1
+   Time: Santos Corinthians
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo Viajar
+
+| Carolina ---> Fernanda | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: TNT TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo Sucesso
+
+| Carolina ---> Bruno | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: TNT Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Leitura
+   Sonho: CarroNovo Familia
+
+| Carolina ---> Camila | Grau: 2
+   Time: Santos Corinthians
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Rio Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Drama Drama
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Carolina ---> Gustavo | Grau: 2
+   Time: Santos Corinthians
+   Equipe: TNT TNT
+   Profissão: Engenheiro Professor
+   Cidade: Rio Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Leitura
+   Sonho: CarroNovo Viajar
+
+| Carolina ---> Larissa | Grau: 1
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo CasaPropria
+
+| Carolina ---> Felipe | Grau: 1
+   Time: Santos Santos
+   Equipe: TNT Tro
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: VideoGame Leitura
+   Sonho: CarroNovo Sucesso
+
+| Carolina ---> Vitor | Grau: 0
+   Time: Santos Corinthians
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo Familia
+
+| Carolina ---> Patricia | Grau: 5
+   Time: Santos Corinthians
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Drama Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Carolina ---> Mateus | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame VideoGame
+   Sonho: CarroNovo Viajar
+
+| Carolina ---> Aline | Grau: 2
+   Time: Santos Gremio
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieB
+   Hobbie: VideoGame Cinema
+   Sonho: CarroNovo Sucesso
+
+| Carolina ---> Tiago | Grau: 5
+   Time: Santos Santos
+   Equipe: TNT TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Drama Drama
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Musica
+   Sonho: CarroNovo Familia
+
+| Carolina ---> Mariana | Grau: 3
+   Time: Santos Santos
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Carolina ---> Diego | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Musica
+   Sonho: CarroNovo Sucesso
+
+| Carolina ---> Renata | Grau: 2
+   Time: Santos Gremio
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo Sucesso
+
+| Carolina ---> Henrique | Grau: 3
+   Time: Santos Santos
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Drama Terror
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: CarroNovo Sucesso
+
+| Vitor ---> Joao | Grau: 0
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: Salvador Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieC
+   Hobbie: Futebol Leitura
+   Sonho: Familia CasaPropria
+
+| Vitor ---> Maria | Grau: 3
+   Time: Corinthians Flamengo
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: Salvador BeloHorizonte
+   Comida: Hamburguer Hamburguer
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Familia CasaPropria
+
+| Vitor ---> Pedro | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Familia CarroNovo
+
+| Vitor ---> Ana | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: Salvador Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Futebol
+   Sonho: Familia Sucesso
+
+| Vitor ---> Lucas | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: Salvador Salvador
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Familia Viajar
+
+| Vitor ---> Beatriz | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Familia CasaPropria
+
+| Vitor ---> Carlos | Grau: 1
+   Time: Corinthians Flamengo
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Futebol
+   Sonho: Familia CarroNovo
+
+| Vitor ---> Juliana | Grau: 2
+   Time: Corinthians Flamengo
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Cinema
+   Sonho: Familia Familia
+
+| Vitor ---> Rafael | Grau: 5
+   Time: Corinthians Corinthians
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: Salvador Rio
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Familia Viajar
+
+| Vitor ---> Fernanda | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Tro TNT
+   Profissão: Medico Tecnico
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Familia Sucesso
+
+| Vitor ---> Bruno | Grau: 4
+   Time: Corinthians Palmeiras
+   Equipe: Tro Tro
+   Profissão: Medico Engenheiro
+   Cidade: Salvador BeloHorizonte
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Familia Familia
+
+| Vitor ---> Camila | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: Salvador Curitiba
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Familia CarroNovo
+
+| Vitor ---> Gustavo | Grau: 3
+   Time: Corinthians Corinthians
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: Salvador Salvador
+   Comida: Hamburguer Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Familia Viajar
+
+| Vitor ---> Larissa | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: Salvador Curitiba
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Familia CasaPropria
+
+| Vitor ---> Felipe | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Tro Tro
+   Profissão: Medico Professor
+   Cidade: Salvador Curitiba
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Leitura
+   Sonho: Familia Sucesso
+
+| Vitor ---> Carolina | Grau: 0
+   Time: Corinthians Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Salvador Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Familia CarroNovo
+
+| Vitor ---> Patricia | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: Salvador Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Familia CarroNovo
+
+| Vitor ---> Mateus | Grau: 0
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: Salvador Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Familia Viajar
+
+| Vitor ---> Aline | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: Salvador Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Cinema
+   Sonho: Familia Sucesso
+
+| Vitor ---> Tiago | Grau: 4
+   Time: Corinthians Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: Salvador Salvador
+   Comida: Hamburguer Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Musica
+   Sonho: Familia Familia
+
+| Vitor ---> Mariana | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Tro Mafia
+   Profissão: Medico Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Familia CarroNovo
+
+| Vitor ---> Diego | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Tecnico
+   Cidade: Salvador BeloHorizonte
+   Comida: Hamburguer Sushi
+   Estilo Musica: Pop HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Musica
+   Sonho: Familia Sucesso
+
+| Vitor ---> Renata | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Tro Eletro
+   Profissão: Medico Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Hamburguer
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Familia Sucesso
+
+| Vitor ---> Henrique | Grau: 4
+   Time: Corinthians Santos
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Familia Sucesso
+
+| Patricia ---> Joao | Grau: 2
+   Time: Corinthians Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Patricia ---> Maria | Grau: 0
+   Time: Corinthians Flamengo
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: Rock HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CasaPropria
+
+| Patricia ---> Pedro | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Patricia ---> Ana | Grau: 3
+   Time: Corinthians Gremio
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Professor
+   Cidade: Rio Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Patricia ---> Lucas | Grau: 4
+   Time: Corinthians Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Viajar
+
+| Patricia ---> Beatriz | Grau: 3
+   Time: Corinthians Santos
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Patricia ---> Carlos | Grau: 4
+   Time: Corinthians Flamengo
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Patricia ---> Juliana | Grau: 2
+   Time: Corinthians Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Familia
+
+| Patricia ---> Rafael | Grau: 4
+   Time: Corinthians Corinthians
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Eletronica
+   Genero Filme: Comedia Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Viajar
+
+| Patricia ---> Fernanda | Grau: 3
+   Time: Corinthians Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Patricia ---> Bruno | Grau: 3
+   Time: Corinthians Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Familia
+
+| Patricia ---> Camila | Grau: 3
+   Time: Corinthians Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Rio Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Rock
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Patricia ---> Gustavo | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Professor
+   Cidade: Rio Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Comedia Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Viajar
+
+| Patricia ---> Larissa | Grau: 3
+   Time: Corinthians Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CasaPropria
+
+| Patricia ---> Felipe | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Rock
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Sucesso
+
+| Patricia ---> Carolina | Grau: 5
+   Time: Corinthians Santos
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Rio
+   Comida: Pizza Pizza
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CarroNovo CarroNovo
+
+| Patricia ---> Vitor | Grau: 2
+   Time: Corinthians Corinthians
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: Rock Pop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Familia
+
+| Patricia ---> Mateus | Grau: 3
+   Time: Corinthians Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CarroNovo Viajar
+
+| Patricia ---> Aline | Grau: 3
+   Time: Corinthians Gremio
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: Rock HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Sucesso
+
+| Patricia ---> Tiago | Grau: 1
+   Time: Corinthians Santos
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Rio Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: Rock Pop
+   Genero Filme: Comedia Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: CarroNovo Familia
+
+| Patricia ---> Mariana | Grau: 3
+   Time: Corinthians Santos
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Patricia ---> Diego | Grau: 1
+   Time: Corinthians Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: Rio BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: Rock HipHop
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: CarroNovo Sucesso
+
+| Patricia ---> Renata | Grau: 2
+   Time: Corinthians Gremio
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Comedia Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Patricia ---> Henrique | Grau: 2
+   Time: Corinthians Santos
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Rio SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: Rock Sertanejo
+   Genero Filme: Comedia Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Mateus ---> Joao | Grau: 7
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: VideoGame Leitura
+   Sonho: Viajar CasaPropria
+
+| Mateus ---> Maria | Grau: 2
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: Viajar CasaPropria
+
+| Mateus ---> Pedro | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: Viajar CarroNovo
+
+| Mateus ---> Ana | Grau: 3
+   Time: Palmeiras Gremio
+   Equipe: Mafia TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar Sucesso
+
+| Mateus ---> Lucas | Grau: 4
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: Viajar Viajar
+
+| Mateus ---> Beatriz | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Mafia Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Leitura
+   Sonho: Viajar CasaPropria
+
+| Mateus ---> Carlos | Grau: 0
+   Time: Palmeiras Flamengo
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar CarroNovo
+
+| Mateus ---> Juliana | Grau: 1
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Cinema
+   Sonho: Viajar Familia
+
+| Mateus ---> Rafael | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar Viajar
+
+| Mateus ---> Fernanda | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Professor Tecnico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar Sucesso
+
+| Mateus ---> Bruno | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Leitura
+   Sonho: Viajar Familia
+
+| Mateus ---> Camila | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Professor Medico
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieD
+   Hobbie: VideoGame Cinema
+   Sonho: Viajar CarroNovo
+
+| Mateus ---> Gustavo | Grau: 3
+   Time: Palmeiras Corinthians
+   Equipe: Mafia TNT
+   Profissão: Professor Professor
+   Cidade: Curitiba Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Leitura
+   Sonho: Viajar Viajar
+
+| Mateus ---> Larissa | Grau: 7
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar CasaPropria
+
+| Mateus ---> Felipe | Grau: 4
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Professor Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: VideoGame Leitura
+   Sonho: Viajar Sucesso
+
+| Mateus ---> Carolina | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame VideoGame
+   Sonho: Viajar CarroNovo
+
+| Mateus ---> Vitor | Grau: 0
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar Familia
+
+| Mateus ---> Patricia | Grau: 3
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar CarroNovo
+
+| Mateus ---> Aline | Grau: 4
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieB
+   Hobbie: VideoGame Cinema
+   Sonho: Viajar Sucesso
+
+| Mateus ---> Tiago | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Professor Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Musica
+   Sonho: Viajar Familia
+
+| Mateus ---> Mariana | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Mafia Mafia
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar CarroNovo
+
+| Mateus ---> Diego | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Professor Tecnico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: VideoGame Musica
+   Sonho: Viajar Sucesso
+
+| Mateus ---> Renata | Grau: 2
+   Time: Palmeiras Gremio
+   Equipe: Mafia Eletro
+   Profissão: Professor Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar Sucesso
+
+| Mateus ---> Henrique | Grau: 1
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Professor Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: VideoGame Futebol
+   Sonho: Viajar Sucesso
+
+| Aline ---> Joao | Grau: 4
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieC
+   Hobbie: Cinema Leitura
+   Sonho: Sucesso CasaPropria
+
+| Aline ---> Maria | Grau: 3
+   Time: Gremio Flamengo
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Sucesso CasaPropria
+
+| Aline ---> Pedro | Grau: 3
+   Time: Gremio Gremio
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Sucesso CarroNovo
+
+| Aline ---> Ana | Grau: 3
+   Time: Gremio Gremio
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Professor
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieB SerieD
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso Sucesso
+
+| Aline ---> Lucas | Grau: 3
+   Time: Gremio Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Sucesso Viajar
+
+| Aline ---> Beatriz | Grau: 1
+   Time: Gremio Santos
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Sucesso CasaPropria
+
+| Aline ---> Carlos | Grau: 2
+   Time: Gremio Flamengo
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieB SerieB
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso CarroNovo
+
+| Aline ---> Juliana | Grau: 2
+   Time: Gremio Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Terror Drama
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Cinema
+   Sonho: Sucesso Familia
+
+| Aline ---> Rafael | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba Rio
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Terror Comedia
+   Genero Série: SerieB SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso Viajar
+
+| Aline ---> Fernanda | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso Sucesso
+
+| Aline ---> Bruno | Grau: 3
+   Time: Gremio Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Sucesso Familia
+
+| Aline ---> Camila | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Drama
+   Genero Série: SerieB SerieD
+   Hobbie: Cinema Cinema
+   Sonho: Sucesso CarroNovo
+
+| Aline ---> Gustavo | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Professor
+   Cidade: Curitiba Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Leitura
+   Sonho: Sucesso Viajar
+
+| Aline ---> Larissa | Grau: 3
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso CasaPropria
+
+| Aline ---> Felipe | Grau: 3
+   Time: Gremio Santos
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieB
+   Hobbie: Cinema Leitura
+   Sonho: Sucesso Sucesso
+
+| Aline ---> Carolina | Grau: 2
+   Time: Gremio Santos
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Drama
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Aline ---> Vitor | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba Salvador
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieB SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso Familia
+
+| Aline ---> Patricia | Grau: 3
+   Time: Gremio Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba Rio
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Comedia
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso CarroNovo
+
+| Aline ---> Mateus | Grau: 4
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Curitiba Curitiba
+   Comida: Pizza Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema VideoGame
+   Sonho: Sucesso Viajar
+
+| Aline ---> Tiago | Grau: 1
+   Time: Gremio Santos
+   Equipe: Mafia TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Curitiba Salvador
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Drama
+   Genero Série: SerieB SerieE
+   Hobbie: Cinema Musica
+   Sonho: Sucesso Familia
+
+| Aline ---> Mariana | Grau: 1
+   Time: Gremio Santos
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Lasanha
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieE
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso CarroNovo
+
+| Aline ---> Diego | Grau: 4
+   Time: Gremio Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: Curitiba BeloHorizonte
+   Comida: Pizza Sushi
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieB SerieE
+   Hobbie: Cinema Musica
+   Sonho: Sucesso Sucesso
+
+| Aline ---> Renata | Grau: 2
+   Time: Gremio Gremio
+   Equipe: Mafia Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Hamburguer
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso Sucesso
+
+| Aline ---> Henrique | Grau: 2
+   Time: Gremio Santos
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Medico
+   Cidade: Curitiba SaoPaulo
+   Comida: Pizza Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Terror
+   Genero Série: SerieB SerieA
+   Hobbie: Cinema Futebol
+   Sonho: Sucesso Sucesso
+
+| Tiago ---> Joao | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieC
+   Hobbie: Musica Leitura
+   Sonho: Familia CasaPropria
+
+| Tiago ---> Maria | Grau: 0
+   Time: Santos Flamengo
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador BeloHorizonte
+   Comida: Sushi Hamburguer
+   Estilo Musica: Pop HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Familia CasaPropria
+
+| Tiago ---> Pedro | Grau: 0
+   Time: Santos Gremio
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Familia CarroNovo
+
+| Tiago ---> Ana | Grau: 2
+   Time: Santos Gremio
+   Equipe: TNT TNT
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Rio
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Futebol
+   Sonho: Familia Sucesso
+
+| Tiago ---> Lucas | Grau: 2
+   Time: Santos Corinthians
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Salvador
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Familia Viajar
+
+| Tiago ---> Beatriz | Grau: 2
+   Time: Santos Santos
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Leitura
+   Sonho: Familia CasaPropria
+
+| Tiago ---> Carlos | Grau: 2
+   Time: Santos Flamengo
+   Equipe: TNT TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Drama Comedia
+   Genero Série: SerieE SerieB
+   Hobbie: Musica Futebol
+   Sonho: Familia CarroNovo
+
+| Tiago ---> Juliana | Grau: 3
+   Time: Santos Flamengo
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Drama Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Cinema
+   Sonho: Familia Familia
+
+| Tiago ---> Rafael | Grau: 1
+   Time: Santos Corinthians
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador Rio
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Eletronica
+   Genero Filme: Drama Comedia
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Futebol
+   Sonho: Familia Viajar
+
+| Tiago ---> Fernanda | Grau: 1
+   Time: Santos Palmeiras
+   Equipe: TNT TNT
+   Profissão: Engenheiro Tecnico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Familia Sucesso
+
+| Tiago ---> Bruno | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: TNT Tro
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador BeloHorizonte
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Leitura
+   Sonho: Familia Familia
+
+| Tiago ---> Camila | Grau: 1
+   Time: Santos Corinthians
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador Curitiba
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Rock
+   Genero Filme: Drama Drama
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Familia CarroNovo
+
+| Tiago ---> Gustavo | Grau: 4
+   Time: Santos Corinthians
+   Equipe: TNT TNT
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Salvador
+   Comida: Sushi Sushi
+   Estilo Musica: Pop Pop
+   Genero Filme: Drama Acao
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Leitura
+   Sonho: Familia Viajar
+
+| Tiago ---> Larissa | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Familia CasaPropria
+
+| Tiago ---> Felipe | Grau: 1
+   Time: Santos Santos
+   Equipe: TNT Tro
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Rock
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieB
+   Hobbie: Musica Leitura
+   Sonho: Familia Sucesso
+
+| Tiago ---> Carolina | Grau: 5
+   Time: Santos Santos
+   Equipe: TNT TNT
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Rio
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Drama Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Musica VideoGame
+   Sonho: Familia CarroNovo
+
+| Tiago ---> Vitor | Grau: 4
+   Time: Santos Corinthians
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador Salvador
+   Comida: Sushi Hamburguer
+   Estilo Musica: Pop Pop
+   Genero Filme: Drama Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Futebol
+   Sonho: Familia Familia
+
+| Tiago ---> Patricia | Grau: 1
+   Time: Santos Corinthians
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Rio
+   Comida: Sushi Pizza
+   Estilo Musica: Pop Rock
+   Genero Filme: Drama Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Familia CarroNovo
+
+| Tiago ---> Mateus | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Professor
+   Cidade: Salvador Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica VideoGame
+   Sonho: Familia Viajar
+
+| Tiago ---> Aline | Grau: 1
+   Time: Santos Gremio
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Engenheiro
+   Cidade: Salvador Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: Pop HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieE SerieB
+   Hobbie: Musica Cinema
+   Sonho: Familia Sucesso
+
+| Tiago ---> Mariana | Grau: 2
+   Time: Santos Santos
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Futebol
+   Sonho: Familia CarroNovo
+
+| Tiago ---> Diego | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: TNT Mafia
+   Profissão: Engenheiro Tecnico
+   Cidade: Salvador BeloHorizonte
+   Comida: Sushi Sushi
+   Estilo Musica: Pop HipHop
+   Genero Filme: Drama Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Musica
+   Sonho: Familia Sucesso
+
+| Tiago ---> Renata | Grau: 0
+   Time: Santos Gremio
+   Equipe: TNT Eletro
+   Profissão: Engenheiro Advogado
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Hamburguer
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Drama Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Familia Sucesso
+
+| Tiago ---> Henrique | Grau: 1
+   Time: Santos Santos
+   Equipe: TNT Tro
+   Profissão: Engenheiro Medico
+   Cidade: Salvador SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: Pop Sertanejo
+   Genero Filme: Drama Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Familia Sucesso
+
+| Mariana ---> Joao | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieC
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Mariana ---> Maria | Grau: 1
+   Time: Santos Flamengo
+   Equipe: Mafia Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CasaPropria
+
+| Mariana ---> Pedro | Grau: 4
+   Time: Santos Gremio
+   Equipe: Mafia Mafia
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Mariana ---> Ana | Grau: 1
+   Time: Santos Gremio
+   Equipe: Mafia TNT
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Mariana ---> Lucas | Grau: 1
+   Time: Santos Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Viajar
+
+| Mariana ---> Beatriz | Grau: 3
+   Time: Santos Santos
+   Equipe: Mafia Eletro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo CasaPropria
+
+| Mariana ---> Carlos | Grau: 4
+   Time: Santos Flamengo
+   Equipe: Mafia TNT
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Mariana ---> Juliana | Grau: 2
+   Time: Santos Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Familia
+
+| Mariana ---> Rafael | Grau: 3
+   Time: Santos Corinthians
+   Equipe: Mafia Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Viajar
+
+| Mariana ---> Fernanda | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Advogado Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Mariana ---> Bruno | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Familia
+
+| Mariana ---> Camila | Grau: 1
+   Time: Santos Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Churrasco
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieE SerieD
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo CarroNovo
+
+| Mariana ---> Gustavo | Grau: 0
+   Time: Santos Corinthians
+   Equipe: Mafia TNT
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Viajar
+
+| Mariana ---> Larissa | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CasaPropria
+
+| Mariana ---> Felipe | Grau: 3
+   Time: Santos Santos
+   Equipe: Mafia Tro
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Leitura
+   Sonho: CarroNovo Sucesso
+
+| Mariana ---> Carolina | Grau: 3
+   Time: Santos Santos
+   Equipe: Mafia TNT
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CarroNovo CarroNovo
+
+| Mariana ---> Vitor | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Mafia Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Familia
+
+| Mariana ---> Patricia | Grau: 3
+   Time: Santos Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo CarroNovo
+
+| Mariana ---> Mateus | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: CarroNovo Viajar
+
+| Mariana ---> Aline | Grau: 1
+   Time: Santos Gremio
+   Equipe: Mafia Mafia
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Lasanha Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieE SerieB
+   Hobbie: Futebol Cinema
+   Sonho: CarroNovo Sucesso
+
+| Mariana ---> Tiago | Grau: 2
+   Time: Santos Santos
+   Equipe: Mafia TNT
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Lasanha Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Musica
+   Sonho: CarroNovo Familia
+
+| Mariana ---> Diego | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Advogado Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Lasanha Sushi
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Futebol Musica
+   Sonho: CarroNovo Sucesso
+
+| Mariana ---> Renata | Grau: 5
+   Time: Santos Gremio
+   Equipe: Mafia Eletro
+   Profissão: Advogado Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Hamburguer
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Mariana ---> Henrique | Grau: 4
+   Time: Santos Santos
+   Equipe: Mafia Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Lasanha Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Futebol Futebol
+   Sonho: CarroNovo Sucesso
+
+| Diego ---> Joao | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieC
+   Hobbie: Musica Leitura
+   Sonho: Sucesso CasaPropria
+
+| Diego ---> Maria | Grau: 2
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Tro
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte BeloHorizonte
+   Comida: Sushi Hamburguer
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Sucesso CasaPropria
+
+| Diego ---> Pedro | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Sucesso CarroNovo
+
+| Diego ---> Ana | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: Mafia TNT
+   Profissão: Tecnico Professor
+   Cidade: BeloHorizonte Rio
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Futebol
+   Sonho: Sucesso Sucesso
+
+| Diego ---> Lucas | Grau: 0
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte Salvador
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Sucesso Viajar
+
+| Diego ---> Beatriz | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Mafia Eletro
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Leitura
+   Sonho: Sucesso CasaPropria
+
+| Diego ---> Carlos | Grau: 0
+   Time: Palmeiras Flamengo
+   Equipe: Mafia TNT
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieB
+   Hobbie: Musica Futebol
+   Sonho: Sucesso CarroNovo
+
+| Diego ---> Juliana | Grau: 0
+   Time: Palmeiras Flamengo
+   Equipe: Mafia Eletro
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Cinema
+   Sonho: Sucesso Familia
+
+| Diego ---> Rafael | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte Rio
+   Comida: Sushi Lasanha
+   Estilo Musica: HipHop Eletronica
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Futebol
+   Sonho: Sucesso Viajar
+
+| Diego ---> Fernanda | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia TNT
+   Profissão: Tecnico Tecnico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Sucesso Sucesso
+
+| Diego ---> Bruno | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Tro
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte BeloHorizonte
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Leitura
+   Sonho: Sucesso Familia
+
+| Diego ---> Camila | Grau: 0
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Eletro
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte Curitiba
+   Comida: Sushi Churrasco
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieD
+   Hobbie: Musica Cinema
+   Sonho: Sucesso CarroNovo
+
+| Diego ---> Gustavo | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia TNT
+   Profissão: Tecnico Professor
+   Cidade: BeloHorizonte Salvador
+   Comida: Sushi Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Leitura
+   Sonho: Sucesso Viajar
+
+| Diego ---> Larissa | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Sushi Lasanha
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Sucesso CasaPropria
+
+| Diego ---> Felipe | Grau: 1
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Tecnico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Sushi Lasanha
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieB
+   Hobbie: Musica Leitura
+   Sonho: Sucesso Sucesso
+
+| Diego ---> Carolina | Grau: 0
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte Rio
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieA
+   Hobbie: Musica VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Diego ---> Vitor | Grau: 2
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Tro
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte Salvador
+   Comida: Sushi Hamburguer
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Futebol
+   Sonho: Sucesso Familia
+
+| Diego ---> Patricia | Grau: 1
+   Time: Palmeiras Corinthians
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte Rio
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop Rock
+   Genero Filme: Terror Comedia
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Sucesso CarroNovo
+
+| Diego ---> Mateus | Grau: 3
+   Time: Palmeiras Palmeiras
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Professor
+   Cidade: BeloHorizonte Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica VideoGame
+   Sonho: Sucesso Viajar
+
+| Diego ---> Aline | Grau: 4
+   Time: Palmeiras Gremio
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte Curitiba
+   Comida: Sushi Pizza
+   Estilo Musica: HipHop HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieB
+   Hobbie: Musica Cinema
+   Sonho: Sucesso Sucesso
+
+| Diego ---> Tiago | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Mafia TNT
+   Profissão: Tecnico Engenheiro
+   Cidade: BeloHorizonte Salvador
+   Comida: Sushi Sushi
+   Estilo Musica: HipHop Pop
+   Genero Filme: Terror Drama
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Musica
+   Sonho: Sucesso Familia
+
+| Diego ---> Mariana | Grau: 2
+   Time: Palmeiras Santos
+   Equipe: Mafia Mafia
+   Profissão: Tecnico Advogado
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Lasanha
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieE
+   Hobbie: Musica Futebol
+   Sonho: Sucesso CarroNovo
+
+| Diego ---> Renata | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: Mafia Eletro
+   Profissão: Tecnico Advogado
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Hamburguer
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Sucesso Sucesso
+
+| Diego ---> Henrique | Grau: 3
+   Time: Palmeiras Santos
+   Equipe: Mafia Tro
+   Profissão: Tecnico Medico
+   Cidade: BeloHorizonte SaoPaulo
+   Comida: Sushi Churrasco
+   Estilo Musica: HipHop Sertanejo
+   Genero Filme: Terror Terror
+   Genero Série: SerieE SerieA
+   Hobbie: Musica Futebol
+   Sonho: Sucesso Sucesso
+
+| Renata ---> Joao | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Renata ---> Maria | Grau: 2
+   Time: Gremio Flamengo
+   Equipe: Eletro Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Hamburguer Hamburguer
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CasaPropria
+
+| Renata ---> Pedro | Grau: 3
+   Time: Gremio Gremio
+   Equipe: Eletro Mafia
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Renata ---> Ana | Grau: 3
+   Time: Gremio Gremio
+   Equipe: Eletro TNT
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Renata ---> Lucas | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Viajar
+
+| Renata ---> Beatriz | Grau: 4
+   Time: Gremio Santos
+   Equipe: Eletro Eletro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Renata ---> Carlos | Grau: 3
+   Time: Gremio Flamengo
+   Equipe: Eletro TNT
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Renata ---> Juliana | Grau: 3
+   Time: Gremio Flamengo
+   Equipe: Eletro Eletro
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Familia
+
+| Renata ---> Rafael | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Eletro Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo Rio
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Viajar
+
+| Renata ---> Fernanda | Grau: 5
+   Time: Gremio Palmeiras
+   Equipe: Eletro TNT
+   Profissão: Advogado Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Renata ---> Bruno | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: Eletro Tro
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Familia
+
+| Renata ---> Camila | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Eletro Eletro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Renata ---> Gustavo | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Eletro TNT
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Hamburguer Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Viajar
+
+| Renata ---> Larissa | Grau: 3
+   Time: Gremio Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CasaPropria
+
+| Renata ---> Felipe | Grau: 2
+   Time: Gremio Santos
+   Equipe: Eletro Tro
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Sucesso
+
+| Renata ---> Carolina | Grau: 2
+   Time: Gremio Santos
+   Equipe: Eletro TNT
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Renata ---> Vitor | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: Eletro Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Hamburguer Hamburguer
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Familia
+
+| Renata ---> Patricia | Grau: 2
+   Time: Gremio Corinthians
+   Equipe: Eletro Mafia
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Suspense Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Renata ---> Mateus | Grau: 2
+   Time: Gremio Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Advogado Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso Viajar
+
+| Renata ---> Aline | Grau: 2
+   Time: Gremio Gremio
+   Equipe: Eletro Mafia
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Hamburguer Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Sucesso
+
+| Renata ---> Tiago | Grau: 0
+   Time: Gremio Santos
+   Equipe: Eletro TNT
+   Profissão: Advogado Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Hamburguer Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Suspense Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Familia
+
+| Renata ---> Mariana | Grau: 5
+   Time: Gremio Santos
+   Equipe: Eletro Mafia
+   Profissão: Advogado Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Lasanha
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Renata ---> Diego | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: Eletro Mafia
+   Profissão: Advogado Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Hamburguer Sushi
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Sucesso
+
+| Renata ---> Henrique | Grau: 5
+   Time: Gremio Santos
+   Equipe: Eletro Tro
+   Profissão: Advogado Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Hamburguer Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Suspense Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Henrique ---> Joao | Grau: 0
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieC
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Henrique ---> Maria | Grau: 2
+   Time: Santos Flamengo
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CasaPropria
+
+| Henrique ---> Pedro | Grau: 3
+   Time: Santos Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Henrique ---> Ana | Grau: 2
+   Time: Santos Gremio
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Henrique ---> Lucas | Grau: 0
+   Time: Santos Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Viajar
+
+| Henrique ---> Beatriz | Grau: 5
+   Time: Santos Santos
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso CasaPropria
+
+| Henrique ---> Carlos | Grau: 4
+   Time: Santos Flamengo
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Churrasco
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Henrique ---> Juliana | Grau: 2
+   Time: Santos Flamengo
+   Equipe: Tro Eletro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Familia
+
+| Henrique ---> Rafael | Grau: 3
+   Time: Santos Corinthians
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Eletronica
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Viajar
+
+| Henrique ---> Fernanda | Grau: 4
+   Time: Santos Palmeiras
+   Equipe: Tro TNT
+   Profissão: Medico Tecnico
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
+
+| Henrique ---> Bruno | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: Tro Tro
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Familia
+
+| Henrique ---> Camila | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Tro Eletro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Churrasco
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieD
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso CarroNovo
+
+| Henrique ---> Gustavo | Grau: 1
+   Time: Santos Corinthians
+   Equipe: Tro TNT
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Terror Acao
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Viajar
+
+| Henrique ---> Larissa | Grau: 2
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CasaPropria
+
+| Henrique ---> Felipe | Grau: 3
+   Time: Santos Santos
+   Equipe: Tro Tro
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Leitura
+   Sonho: Sucesso Sucesso
+
+| Henrique ---> Carolina | Grau: 3
+   Time: Santos Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso CarroNovo
+
+| Henrique ---> Vitor | Grau: 4
+   Time: Santos Corinthians
+   Equipe: Tro Tro
+   Profissão: Medico Medico
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Familia
+
+| Henrique ---> Patricia | Grau: 2
+   Time: Santos Corinthians
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Rio
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo Rock
+   Genero Filme: Terror Comedia
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Henrique ---> Mateus | Grau: 1
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Professor
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol VideoGame
+   Sonho: Sucesso Viajar
+
+| Henrique ---> Aline | Grau: 2
+   Time: Santos Gremio
+   Equipe: Tro Mafia
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Curitiba
+   Comida: Churrasco Pizza
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieB
+   Hobbie: Futebol Cinema
+   Sonho: Sucesso Sucesso
+
+| Henrique ---> Tiago | Grau: 1
+   Time: Santos Santos
+   Equipe: Tro TNT
+   Profissão: Medico Engenheiro
+   Cidade: SaoPaulo Salvador
+   Comida: Churrasco Sushi
+   Estilo Musica: Sertanejo Pop
+   Genero Filme: Terror Drama
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Familia
+
+| Henrique ---> Mariana | Grau: 4
+   Time: Santos Santos
+   Equipe: Tro Mafia
+   Profissão: Medico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Lasanha
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso CarroNovo
+
+| Henrique ---> Diego | Grau: 3
+   Time: Santos Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Medico Tecnico
+   Cidade: SaoPaulo BeloHorizonte
+   Comida: Churrasco Sushi
+   Estilo Musica: Sertanejo HipHop
+   Genero Filme: Terror Terror
+   Genero Série: SerieA SerieE
+   Hobbie: Futebol Musica
+   Sonho: Sucesso Sucesso
+
+| Henrique ---> Renata | Grau: 5
+   Time: Santos Gremio
+   Equipe: Tro Eletro
+   Profissão: Medico Advogado
+   Cidade: SaoPaulo SaoPaulo
+   Comida: Churrasco Hamburguer
+   Estilo Musica: Sertanejo Sertanejo
+   Genero Filme: Terror Suspense
+   Genero Série: SerieA SerieA
+   Hobbie: Futebol Futebol
+   Sonho: Sucesso Sucesso
