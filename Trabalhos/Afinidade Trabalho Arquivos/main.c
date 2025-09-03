@@ -15,7 +15,7 @@ typedef struct {
 typedef struct {
     char nome[100];     //--> Não usado para pontuar
     int idade;                  //--> 1
-    data nascimento;            //--> 1
+    data nascimento;    //--> Não usado para pontuar   
     char email[100];    //--> Não usado para pontuar
     long int phone;     //--> Não usado para pontuar
     // Elementos de grau de afinidade:
@@ -30,7 +30,7 @@ typedef struct {
     char genero_seri[80];       //--> 1
     char hobbie[80];            //--> 1
     char sonho[80];             //--> 1
-    // Tudo peso 1, grau maximo de afinidade 12.
+    // Tudo peso 1, grau maximo de afinidade 11.
 }registrado;
 
 //registrado pessoa;
@@ -97,69 +97,12 @@ void Menu_Style_Win() {
     printf("!Entre com o número da opção desejada!\n>> ");
 }
 
-// //Funções
-// void Registrar() {
-//     char Data[10];
-//     printf("\n\n...Abrindo Registro.");
-//     printf("\n-== Registre o Individuo ==-\n");
-//     printf("Nome: "); scanf("%s",pessoa.nome);
-//     fflush(stdin);
-//     printf("Idade: "); scanf("%d",&pessoa.idade);
-//     fflush(stdin);
-//     //data
-//     printf("Data 00/00: ");
-//     scanf("%s", Data);
-//     fflush(stdin);
-//     pessoa.nascimento.dia = ((Data[0]-'0') * 10) + (Data[1]-'0');
-//     pessoa.nascimento.mes = ((Data[3]-'0') * 10) + (Data[4]-'0');
-//     pessoa.nascimento.ano = 2025-pessoa.idade;
-//     printf("    Data Escolhida: %d/%d/%d", pessoa.nascimento.dia, pessoa.nascimento.mes, pessoa.nascimento.ano);
-//     //continua
-//     printf("\nEmail: "); scanf("%s",pessoa.email);
-//     printf("Phone: "); scanf("%d",&pessoa.phone);
-//     printf("Time: "); scanf("%s",pessoa.time);
-//     printf("Equipe: "); scanf("%s",pessoa.equipe);
-//     printf("Profissão: "); scanf("%s",pessoa.profissao);
-//     printf("Cidade: "); scanf("%s",pessoa.cidade);
-//     printf("Comida Favorita: "); scanf("%s",pessoa.comida_favo);
-//     printf("Estilo Musical: "); scanf("%s",pessoa.estilo_musi);
-//     printf("Genero Filme: "); scanf("%s",pessoa.genero_film);
-//     printf("Genero Série: "); scanf("%s",pessoa.genero_seri);
-//     printf("Hobbie: "); scanf("%s",pessoa.hobbie);
-//     printf("Sonho: "); scanf("%s",pessoa.sonho);
-    
-//     //Cadastrado
-//     printf("\n...Cadastrando\n");
-
-//     FILE * myfile;
-//     myfile = fopen("Registrados.bin", "a+b");
-//     fwrite(&pessoa, sizeof(registrado), 1, myfile);
-//     printf("Cadastrado.");
-//     fclose(myfile);
-
-//     // Puchando dados
-//     printf(" \nDados: ");
-//     FILE * fileread;
-//     fileread = fopen("Registrados.bin", "r");
-
-//     while(!feof(fileread))
-//     {
-//         fread(&le_pessoa, sizeof(registrado), 1, fileread);
-//         if(!(strcmp(plido->nome, pessoa.nome))) {
-//             break;
-//         }
-//     }
-//     printf("%s %d %d/%d/%d %s",plido->nome, plido->idade, plido->nascimento.dia, plido->nascimento.mes, plido->nascimento.ano, plido->cidade);
-//     printf("\nTel/Email: %d %s",plido->phone, plido->email);
-//     printf("\nGostos: %s %s %s %s %s %s %s %s", plido->time, plido->equipe,plido->comida_favo, plido->estilo_musi, plido->genero_film, plido->genero_seri, plido->hobbie, plido->sonho);
-//     fclose(fileread);
-// }
-
 void Preencher_e_Gravar_Stuct(registrado *p) {
     char Data[10];
     printf("\n\nAbrindo Registro...[ ⭮ ]");
     printf("\n-== Registre o Individuo ==-\n");
     printf("Nome: "); scanf("%s", p->nome);
+    
     printf("Idade: "); scanf("%d", &p->idade);
     // Data
     printf("Data 00/00: ");
@@ -189,11 +132,13 @@ void Preencher_e_Gravar_Stuct(registrado *p) {
     if (!ESCREVE_ARQUIVO) printf("Não foi possível escrever");
     fwrite(p, sizeof(registrado), 1, ESCREVE_ARQUIVO);
     fclose(ESCREVE_ARQUIVO);
-    printf("\\nnRegistrado.[ ✓ ]");
+    printf("\nRegistrado.[ ✓ ]");
 }
 
 void Gerar_Tabela_de_Afinidade() {
-    printf("\nGerando Tabela de Afinidade...[ ⭮ ]");
+    printf("\n\n-== Tabela Afinidade ==-");
+    printf("\nCruzando Dados Registrados...[ ⭮ ]\n");
+    int grau_afinidade = 0;
     registrado pcompara;
     registrado ppercorre;
 
@@ -201,13 +146,88 @@ void Gerar_Tabela_de_Afinidade() {
     FILE * PERCORRE;
     FILE * ESCREVE;
 
+    //Apagar o conteúdo e Reescrever Depois no Cruzamento.
+    ESCREVE = fopen("AfinidadeTabela.txt","w+t");
+    fclose(ESCREVE);
+
     COMPARA = fopen("Registrados.bin", "rb");
     PERCORRE = fopen("Registrados.bin", "rb");
 
     while (fread(&pcompara, sizeof(registrado), 1, COMPARA)) {
         while (fread(&ppercorre, sizeof(registrado), 1, PERCORRE)) {
-            //Essa é a ideia:
-            printf("\n%s ---> %s", pcompara.nome, ppercorre.nome);
+            //Cruzamento de Dados e Grau de Afinidade.
+            if (strcmp(pcompara.nome,ppercorre.nome) != 0) {
+                printf("\n| %s ---> %s |", pcompara.nome, ppercorre.nome);
+                if (pcompara.idade == ppercorre.idade) grau_afinidade++; // 1
+                if (!(strcmp(pcompara.time,ppercorre.time))) grau_afinidade++;    // 2
+                if (!(strcmp(pcompara.equipe,ppercorre.equipe))) grau_afinidade++;    // 3
+                if (!(strcmp(pcompara.profissao,ppercorre.profissao))) grau_afinidade++;    // 4
+                if (!(strcmp(pcompara.cidade,ppercorre.cidade))) grau_afinidade++;    // 5
+                if (!(strcmp(pcompara.comida_favo,ppercorre.comida_favo))) grau_afinidade++;    // 6
+                if (!(strcmp(pcompara.estilo_musi, ppercorre.estilo_musi))) grau_afinidade++;    // 7
+                if (!(strcmp(pcompara.genero_film, ppercorre.genero_film))) grau_afinidade++;    // 8
+                if (!(strcmp(pcompara.genero_seri, ppercorre.genero_seri))) grau_afinidade++;    // 9
+                if (!(strcmp(pcompara.hobbie, ppercorre.hobbie))) grau_afinidade++;    // 10
+                if (!(strcmp(pcompara.sonho, ppercorre.sonho))) grau_afinidade++;    // 11
+                printf(" Grau de Afinidade: %d;",grau_afinidade);
+                printf(
+            "\n   Time: %s %s"
+                    "\n   Equipe: %s %s"
+                    "\n   Profissão: %s %s"
+                    "\n   Cidade: %s %s"
+                    "\n   Comida: %s %s"
+                    "\n   Estilo Musica: %s %s"
+                    "\n   Genero Filme: %s %s"
+                    "\n   Genero Série: %s %s"
+                    "\n   Hobbie: %s %s"
+                    "\n   Sonho: %s %s\n",
+                    pcompara.time, ppercorre.time,
+                    pcompara.equipe, ppercorre.equipe,
+                    pcompara.profissao, ppercorre.profissao,
+                    pcompara.cidade, ppercorre.cidade,
+                    pcompara.comida_favo, ppercorre.comida_favo,
+                    pcompara.estilo_musi, ppercorre.estilo_musi,
+                    pcompara.genero_film, ppercorre.genero_film,
+                    pcompara.genero_seri, ppercorre.genero_seri,
+                    pcompara.hobbie, ppercorre.hobbie,
+                    pcompara.sonho, ppercorre.sonho
+                );
+                printf("\nDados Cruzados[ ✓ ]");
+                printf("\nGravando no Arquivo...[ ⭮ ]");
+
+                ESCREVE = fopen("AfinidadeTabela.txt","a+t");
+                if (!ESCREVE) printf("Não foi possível Gravar.[ X ]");
+                else printf("\nGravado no Arquivo[ ✓ ]");
+
+                fprintf(ESCREVE,
+                    "\n| %s ---> %s | Grau: %d"
+                    "\n   Time: %s %s"
+                    "\n   Equipe: %s %s"
+                    "\n   Profissão: %s %s"
+                    "\n   Cidade: %s %s"
+                    "\n   Comida: %s %s"
+                    "\n   Estilo Musica: %s %s"
+                    "\n   Genero Filme: %s %s"
+                    "\n   Genero Série: %s %s"
+                    "\n   Hobbie: %s %s"
+                    "\n   Sonho: %s %s\n",
+                    pcompara.nome, ppercorre.nome, grau_afinidade,
+                    pcompara.time, ppercorre.time,
+                    pcompara.equipe, ppercorre.equipe,
+                    pcompara.profissao, ppercorre.profissao,
+                    pcompara.cidade, ppercorre.cidade,
+                    pcompara.comida_favo, ppercorre.comida_favo,
+                    pcompara.estilo_musi, ppercorre.estilo_musi,
+                    pcompara.genero_film, ppercorre.genero_film,
+                    pcompara.genero_seri, ppercorre.genero_seri,
+                    pcompara.hobbie, ppercorre.hobbie,
+                    pcompara.sonho, ppercorre.sonho
+                );
+                fclose(ESCREVE);
+
+                printf("\n");
+                grau_afinidade = 0;
+            }
         }
         fseek(PERCORRE, 0, SEEK_SET); //Volta pro inicio.
     }
@@ -240,7 +260,7 @@ int main () {
         switch (op) {
             case 1:
                 // Função Registra
-                //Preencher_e_Gravar_Stuct(&pessoa);
+                Preencher_e_Gravar_Stuct(&pessoa);
                 Gerar_Tabela_de_Afinidade();
             break;
             case 2:
@@ -251,6 +271,7 @@ int main () {
             break;
             case 4:
                 //Tabela de Afinidade
+                Gerar_Tabela_de_Afinidade();
             break;
             case 5:
                 //Sair
