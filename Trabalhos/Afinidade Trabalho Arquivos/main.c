@@ -260,6 +260,42 @@ void Gerar_Tabela_de_Afinidade() {
 
 }
 
+void Buscar_por_Posicao() {
+    //Variaveis
+    registrado agora;
+    int conta_todos = 0;
+    int escolha_posição = 0;
+    //Lê para contar elementos e escolher posição
+    FILE * PERCORRE;
+    PERCORRE = fopen("Registrados.bin", "rb");
+        while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+            conta_todos++;
+        }
+
+        printf("\nNúmero de registrados: %d",conta_todos);
+    fclose(PERCORRE);
+
+    //Buscando
+    printf("\n Digite a posição: ");
+    scanf("%d", &escolha_posição);
+    if (escolha_posição > conta_todos) {
+        printf("Número invalido, só há %d registrados. ", conta_todos);
+    }else {
+        conta_todos = 0;
+        PERCORRE = fopen("Registrados.bin", "rb");
+        while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+            conta_todos++;
+            if (escolha_posição == conta_todos) {
+                printf("%s", agora.nome);
+            }
+        }
+        fclose(PERCORRE);
+    }
+    
+    
+    // ========================== // ============================= //
+}
+
 int main () {
     //Locale Troca para o pt_br
     setlocale(LC_ALL,"Portuguese");
@@ -269,7 +305,7 @@ int main () {
     int op;
     registrado pessoa;
 
-    //Menu
+    //Menu 
     do {
         //Troca de Menu para cada Sistema, Desabilite o define LinuxSystem se estiver usando Windows
         if (LinuxSystem) Menu_Style_Linux();
@@ -288,6 +324,7 @@ int main () {
             break;
             case 2:
                 // Função Pesquisa Caracteristica
+                Buscar_por_Posicao();
             break;
             case 3:
                 // Buscar Afinidade entre dois Registrados
