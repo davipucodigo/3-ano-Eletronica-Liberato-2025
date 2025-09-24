@@ -287,6 +287,18 @@
    Hobbie: Leitura Futebol
    Sonho: CasaPropria Sucesso
 
+| Joao ---> Felipi | Grau: 0
+   Time: Palmeiras Gremio
+   Equipe: Mafia Tro
+   Profissão: Professor Piloto
+   Cidade: Curitiba Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: HipHop samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieC aventura
+   Hobbie: Leitura correr
+   Sonho: CasaPropria PremioDeCorrida
+
 | Maria ---> Joao | Grau: 3
    Time: Flamengo Palmeiras
    Equipe: Tro Mafia
@@ -574,6 +586,18 @@
    Genero Série: SerieD SerieA
    Hobbie: Cinema Futebol
    Sonho: CasaPropria Sucesso
+
+| Maria ---> Felipi | Grau: 1
+   Time: Flamengo Gremio
+   Equipe: Tro Tro
+   Profissão: Medico Piloto
+   Cidade: BeloHorizonte Sapiranga
+   Comida: Hamburguer arroz
+   Estilo Musica: HipHop samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieD aventura
+   Hobbie: Cinema correr
+   Sonho: CasaPropria PremioDeCorrida
 
 | Pedro ---> Joao | Grau: 2
    Time: Gremio Palmeiras
@@ -863,6 +887,18 @@
    Hobbie: Cinema Futebol
    Sonho: CarroNovo Sucesso
 
+| Pedro ---> Felipi | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Mafia Tro
+   Profissão: Medico Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Churrasco arroz
+   Estilo Musica: Eletronica samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieD aventura
+   Hobbie: Cinema correr
+   Sonho: CarroNovo PremioDeCorrida
+
 | Ana ---> Joao | Grau: 2
    Time: Gremio Palmeiras
    Equipe: TNT Mafia
@@ -1150,6 +1186,18 @@
    Genero Série: SerieD SerieA
    Hobbie: Futebol Futebol
    Sonho: Sucesso Sucesso
+
+| Ana ---> Felipi | Grau: 1
+   Time: Gremio Gremio
+   Equipe: TNT Tro
+   Profissão: Professor Piloto
+   Cidade: Rio Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: Pop samba
+   Genero Filme: Acao ação
+   Genero Série: SerieD aventura
+   Hobbie: Futebol correr
+   Sonho: Sucesso PremioDeCorrida
 
 | Lucas ---> Joao | Grau: 2
    Time: Corinthians Palmeiras
@@ -1439,6 +1487,18 @@
    Hobbie: Cinema Futebol
    Sonho: Viajar Sucesso
 
+| Lucas ---> Felipi | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Piloto
+   Cidade: Salvador Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: Rock samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieD aventura
+   Hobbie: Cinema correr
+   Sonho: Viajar PremioDeCorrida
+
 | Beatriz ---> Joao | Grau: 3
    Time: Santos Palmeiras
    Equipe: Eletro Mafia
@@ -1726,6 +1786,18 @@
    Genero Série: SerieA SerieA
    Hobbie: Leitura Futebol
    Sonho: CasaPropria Sucesso
+
+| Beatriz ---> Felipi | Grau: 0
+   Time: Santos Gremio
+   Equipe: Eletro Tro
+   Profissão: Medico Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: Sertanejo samba
+   Genero Filme: Comedia ação
+   Genero Série: SerieA aventura
+   Hobbie: Leitura correr
+   Sonho: CasaPropria PremioDeCorrida
 
 | Carlos ---> Joao | Grau: 0
    Time: Flamengo Palmeiras
@@ -2015,6 +2087,18 @@
    Hobbie: Futebol Futebol
    Sonho: CarroNovo Sucesso
 
+| Carlos ---> Felipi | Grau: 0
+   Time: Flamengo Gremio
+   Equipe: TNT Tro
+   Profissão: Engenheiro Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Churrasco arroz
+   Estilo Musica: Sertanejo samba
+   Genero Filme: Comedia ação
+   Genero Série: SerieB aventura
+   Hobbie: Futebol correr
+   Sonho: CarroNovo PremioDeCorrida
+
 | Juliana ---> Joao | Grau: 0
    Time: Flamengo Palmeiras
    Equipe: Eletro Mafia
@@ -2302,6 +2386,18 @@
    Genero Série: SerieA SerieA
    Hobbie: Cinema Futebol
    Sonho: Familia Sucesso
+
+| Juliana ---> Felipi | Grau: 0
+   Time: Flamengo Gremio
+   Equipe: Eletro Tro
+   Profissão: Engenheiro Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Lasanha arroz
+   Estilo Musica: Eletronica samba
+   Genero Filme: Drama ação
+   Genero Série: SerieA aventura
+   Hobbie: Cinema correr
+   Sonho: Familia PremioDeCorrida
 
 | Rafael ---> Joao | Grau: 0
    Time: Corinthians Palmeiras
@@ -2591,6 +2687,18 @@
    Hobbie: Futebol Futebol
    Sonho: Viajar Sucesso
 
+| Rafael ---> Felipi | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Tro Tro
+   Profissão: Medico Piloto
+   Cidade: Rio Sapiranga
+   Comida: Lasanha arroz
+   Estilo Musica: Eletronica samba
+   Genero Filme: Comedia ação
+   Genero Série: SerieE aventura
+   Hobbie: Futebol correr
+   Sonho: Viajar PremioDeCorrida
+
 | Fernanda ---> Joao | Grau: 2
    Time: Palmeiras Palmeiras
    Equipe: TNT Mafia
@@ -2878,6 +2986,18 @@
    Genero Série: SerieA SerieA
    Hobbie: Futebol Futebol
    Sonho: Sucesso Sucesso
+
+| Fernanda ---> Felipi | Grau: 0
+   Time: Palmeiras Gremio
+   Equipe: TNT Tro
+   Profissão: Tecnico Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Lasanha arroz
+   Estilo Musica: Rock samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieA aventura
+   Hobbie: Futebol correr
+   Sonho: Sucesso PremioDeCorrida
 
 | Bruno ---> Joao | Grau: 3
    Time: Palmeiras Palmeiras
@@ -3167,6 +3287,18 @@
    Hobbie: Leitura Futebol
    Sonho: Familia Sucesso
 
+| Bruno ---> Felipi | Grau: 1
+   Time: Palmeiras Gremio
+   Equipe: Tro Tro
+   Profissão: Engenheiro Piloto
+   Cidade: BeloHorizonte Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: Pop samba
+   Genero Filme: Terror ação
+   Genero Série: SerieA aventura
+   Hobbie: Leitura correr
+   Sonho: Familia PremioDeCorrida
+
 | Camila ---> Joao | Grau: 1
    Time: Corinthians Palmeiras
    Equipe: Eletro Mafia
@@ -3454,6 +3586,18 @@
    Genero Série: SerieD SerieA
    Hobbie: Cinema Futebol
    Sonho: CarroNovo Sucesso
+
+| Camila ---> Felipi | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: Eletro Tro
+   Profissão: Medico Piloto
+   Cidade: Curitiba Sapiranga
+   Comida: Churrasco arroz
+   Estilo Musica: Rock samba
+   Genero Filme: Drama ação
+   Genero Série: SerieD aventura
+   Hobbie: Cinema correr
+   Sonho: CarroNovo PremioDeCorrida
 
 | Gustavo ---> Joao | Grau: 2
    Time: Corinthians Palmeiras
@@ -3743,6 +3887,18 @@
    Hobbie: Leitura Futebol
    Sonho: Viajar Sucesso
 
+| Gustavo ---> Felipi | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: TNT Tro
+   Profissão: Professor Piloto
+   Cidade: Salvador Sapiranga
+   Comida: Sushi arroz
+   Estilo Musica: Pop samba
+   Genero Filme: Acao ação
+   Genero Série: SerieA aventura
+   Hobbie: Leitura correr
+   Sonho: Viajar PremioDeCorrida
+
 | Larissa ---> Joao | Grau: 7
    Time: Palmeiras Palmeiras
    Equipe: Mafia Mafia
@@ -4030,6 +4186,18 @@
    Genero Série: SerieA SerieA
    Hobbie: Futebol Futebol
    Sonho: CasaPropria Sucesso
+
+| Larissa ---> Felipi | Grau: 0
+   Time: Palmeiras Gremio
+   Equipe: Mafia Tro
+   Profissão: Professor Piloto
+   Cidade: Curitiba Sapiranga
+   Comida: Lasanha arroz
+   Estilo Musica: HipHop samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieA aventura
+   Hobbie: Futebol correr
+   Sonho: CasaPropria PremioDeCorrida
 
 | Felipe ---> Joao | Grau: 4
    Time: Santos Palmeiras
@@ -4319,6 +4487,18 @@
    Hobbie: Leitura Futebol
    Sonho: Sucesso Sucesso
 
+| Felipe ---> Felipi | Grau: 1
+   Time: Santos Gremio
+   Equipe: Tro Tro
+   Profissão: Professor Piloto
+   Cidade: Curitiba Sapiranga
+   Comida: Lasanha arroz
+   Estilo Musica: Rock samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieB aventura
+   Hobbie: Leitura correr
+   Sonho: Sucesso PremioDeCorrida
+
 | Carolina ---> Joao | Grau: 1
    Time: Santos Palmeiras
    Equipe: TNT Mafia
@@ -4606,6 +4786,18 @@
    Genero Série: SerieA SerieA
    Hobbie: VideoGame Futebol
    Sonho: CarroNovo Sucesso
+
+| Carolina ---> Felipi | Grau: 0
+   Time: Santos Gremio
+   Equipe: TNT Tro
+   Profissão: Engenheiro Piloto
+   Cidade: Rio Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: Sertanejo samba
+   Genero Filme: Drama ação
+   Genero Série: SerieA aventura
+   Hobbie: VideoGame correr
+   Sonho: CarroNovo PremioDeCorrida
 
 | Vitor ---> Joao | Grau: 0
    Time: Corinthians Palmeiras
@@ -4895,6 +5087,18 @@
    Hobbie: Futebol Futebol
    Sonho: Familia Sucesso
 
+| Vitor ---> Felipi | Grau: 1
+   Time: Corinthians Gremio
+   Equipe: Tro Tro
+   Profissão: Medico Piloto
+   Cidade: Salvador Sapiranga
+   Comida: Hamburguer arroz
+   Estilo Musica: Pop samba
+   Genero Filme: Terror ação
+   Genero Série: SerieE aventura
+   Hobbie: Futebol correr
+   Sonho: Familia PremioDeCorrida
+
 | Patricia ---> Joao | Grau: 2
    Time: Corinthians Palmeiras
    Equipe: Mafia Mafia
@@ -5182,6 +5386,18 @@
    Genero Série: SerieA SerieA
    Hobbie: Futebol Futebol
    Sonho: CarroNovo Sucesso
+
+| Patricia ---> Felipi | Grau: 0
+   Time: Corinthians Gremio
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Piloto
+   Cidade: Rio Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: Rock samba
+   Genero Filme: Comedia ação
+   Genero Série: SerieA aventura
+   Hobbie: Futebol correr
+   Sonho: CarroNovo PremioDeCorrida
 
 | Mateus ---> Joao | Grau: 7
    Time: Palmeiras Palmeiras
@@ -5471,6 +5687,18 @@
    Hobbie: VideoGame Futebol
    Sonho: Viajar Sucesso
 
+| Mateus ---> Felipi | Grau: 0
+   Time: Palmeiras Gremio
+   Equipe: Mafia Tro
+   Profissão: Professor Piloto
+   Cidade: Curitiba Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: HipHop samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieA aventura
+   Hobbie: VideoGame correr
+   Sonho: Viajar PremioDeCorrida
+
 | Aline ---> Joao | Grau: 4
    Time: Gremio Palmeiras
    Equipe: Mafia Mafia
@@ -5758,6 +5986,18 @@
    Genero Série: SerieB SerieA
    Hobbie: Cinema Futebol
    Sonho: Sucesso Sucesso
+
+| Aline ---> Felipi | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Mafia Tro
+   Profissão: Engenheiro Piloto
+   Cidade: Curitiba Sapiranga
+   Comida: Pizza arroz
+   Estilo Musica: HipHop samba
+   Genero Filme: Terror ação
+   Genero Série: SerieB aventura
+   Hobbie: Cinema correr
+   Sonho: Sucesso PremioDeCorrida
 
 | Tiago ---> Joao | Grau: 0
    Time: Santos Palmeiras
@@ -6047,6 +6287,18 @@
    Hobbie: Musica Futebol
    Sonho: Familia Sucesso
 
+| Tiago ---> Felipi | Grau: 0
+   Time: Santos Gremio
+   Equipe: TNT Tro
+   Profissão: Engenheiro Piloto
+   Cidade: Salvador Sapiranga
+   Comida: Sushi arroz
+   Estilo Musica: Pop samba
+   Genero Filme: Drama ação
+   Genero Série: SerieE aventura
+   Hobbie: Musica correr
+   Sonho: Familia PremioDeCorrida
+
 | Mariana ---> Joao | Grau: 2
    Time: Santos Palmeiras
    Equipe: Mafia Mafia
@@ -6334,6 +6586,18 @@
    Genero Série: SerieE SerieA
    Hobbie: Futebol Futebol
    Sonho: CarroNovo Sucesso
+
+| Mariana ---> Felipi | Grau: 0
+   Time: Santos Gremio
+   Equipe: Mafia Tro
+   Profissão: Advogado Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Lasanha arroz
+   Estilo Musica: Sertanejo samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieE aventura
+   Hobbie: Futebol correr
+   Sonho: CarroNovo PremioDeCorrida
 
 | Diego ---> Joao | Grau: 3
    Time: Palmeiras Palmeiras
@@ -6623,6 +6887,18 @@
    Hobbie: Musica Futebol
    Sonho: Sucesso Sucesso
 
+| Diego ---> Felipi | Grau: 0
+   Time: Palmeiras Gremio
+   Equipe: Mafia Tro
+   Profissão: Tecnico Piloto
+   Cidade: BeloHorizonte Sapiranga
+   Comida: Sushi arroz
+   Estilo Musica: HipHop samba
+   Genero Filme: Terror ação
+   Genero Série: SerieE aventura
+   Hobbie: Musica correr
+   Sonho: Sucesso PremioDeCorrida
+
 | Renata ---> Joao | Grau: 1
    Time: Gremio Palmeiras
    Equipe: Eletro Mafia
@@ -6911,6 +7187,18 @@
    Hobbie: Futebol Futebol
    Sonho: Sucesso Sucesso
 
+| Renata ---> Felipi | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Eletro Tro
+   Profissão: Advogado Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Hamburguer arroz
+   Estilo Musica: Sertanejo samba
+   Genero Filme: Suspense ação
+   Genero Série: SerieA aventura
+   Hobbie: Futebol correr
+   Sonho: Sucesso PremioDeCorrida
+
 | Henrique ---> Joao | Grau: 0
    Time: Santos Palmeiras
    Equipe: Tro Mafia
@@ -7198,3 +7486,315 @@
    Genero Série: SerieA SerieA
    Hobbie: Futebol Futebol
    Sonho: Sucesso Sucesso
+
+| Henrique ---> Felipi | Grau: 1
+   Time: Santos Gremio
+   Equipe: Tro Tro
+   Profissão: Medico Piloto
+   Cidade: SaoPaulo Sapiranga
+   Comida: Churrasco arroz
+   Estilo Musica: Sertanejo samba
+   Genero Filme: Terror ação
+   Genero Série: SerieA aventura
+   Hobbie: Futebol correr
+   Sonho: Sucesso PremioDeCorrida
+
+| Felipi ---> Joao | Grau: 0
+   Time: Gremio Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Piloto Professor
+   Cidade: Sapiranga Curitiba
+   Comida: arroz Pizza
+   Estilo Musica: samba HipHop
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieC
+   Hobbie: correr Leitura
+   Sonho: PremioDeCorrida CasaPropria
+
+| Felipi ---> Maria | Grau: 1
+   Time: Gremio Flamengo
+   Equipe: Tro Tro
+   Profissão: Piloto Medico
+   Cidade: Sapiranga BeloHorizonte
+   Comida: arroz Hamburguer
+   Estilo Musica: samba HipHop
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieD
+   Hobbie: correr Cinema
+   Sonho: PremioDeCorrida CasaPropria
+
+| Felipi ---> Pedro | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Tro Mafia
+   Profissão: Piloto Medico
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Churrasco
+   Estilo Musica: samba Eletronica
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieD
+   Hobbie: correr Cinema
+   Sonho: PremioDeCorrida CarroNovo
+
+| Felipi ---> Ana | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Tro TNT
+   Profissão: Piloto Professor
+   Cidade: Sapiranga Rio
+   Comida: arroz Pizza
+   Estilo Musica: samba Pop
+   Genero Filme: ação Acao
+   Genero Série: aventura SerieD
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida Sucesso
+
+| Felipi ---> Lucas | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Tro Eletro
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga Salvador
+   Comida: arroz Pizza
+   Estilo Musica: samba Rock
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieD
+   Hobbie: correr Cinema
+   Sonho: PremioDeCorrida Viajar
+
+| Felipi ---> Beatriz | Grau: 0
+   Time: Gremio Santos
+   Equipe: Tro Eletro
+   Profissão: Piloto Medico
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Pizza
+   Estilo Musica: samba Sertanejo
+   Genero Filme: ação Comedia
+   Genero Série: aventura SerieA
+   Hobbie: correr Leitura
+   Sonho: PremioDeCorrida CasaPropria
+
+| Felipi ---> Carlos | Grau: 0
+   Time: Gremio Flamengo
+   Equipe: Tro TNT
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Churrasco
+   Estilo Musica: samba Sertanejo
+   Genero Filme: ação Comedia
+   Genero Série: aventura SerieB
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida CarroNovo
+
+| Felipi ---> Juliana | Grau: 0
+   Time: Gremio Flamengo
+   Equipe: Tro Eletro
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Lasanha
+   Estilo Musica: samba Eletronica
+   Genero Filme: ação Drama
+   Genero Série: aventura SerieA
+   Hobbie: correr Cinema
+   Sonho: PremioDeCorrida Familia
+
+| Felipi ---> Rafael | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Tro Tro
+   Profissão: Piloto Medico
+   Cidade: Sapiranga Rio
+   Comida: arroz Lasanha
+   Estilo Musica: samba Eletronica
+   Genero Filme: ação Comedia
+   Genero Série: aventura SerieE
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida Viajar
+
+| Felipi ---> Fernanda | Grau: 0
+   Time: Gremio Palmeiras
+   Equipe: Tro TNT
+   Profissão: Piloto Tecnico
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Lasanha
+   Estilo Musica: samba Rock
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieA
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida Sucesso
+
+| Felipi ---> Bruno | Grau: 1
+   Time: Gremio Palmeiras
+   Equipe: Tro Tro
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga BeloHorizonte
+   Comida: arroz Pizza
+   Estilo Musica: samba Pop
+   Genero Filme: ação Terror
+   Genero Série: aventura SerieA
+   Hobbie: correr Leitura
+   Sonho: PremioDeCorrida Familia
+
+| Felipi ---> Camila | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Tro Eletro
+   Profissão: Piloto Medico
+   Cidade: Sapiranga Curitiba
+   Comida: arroz Churrasco
+   Estilo Musica: samba Rock
+   Genero Filme: ação Drama
+   Genero Série: aventura SerieD
+   Hobbie: correr Cinema
+   Sonho: PremioDeCorrida CarroNovo
+
+| Felipi ---> Gustavo | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Tro TNT
+   Profissão: Piloto Professor
+   Cidade: Sapiranga Salvador
+   Comida: arroz Sushi
+   Estilo Musica: samba Pop
+   Genero Filme: ação Acao
+   Genero Série: aventura SerieA
+   Hobbie: correr Leitura
+   Sonho: PremioDeCorrida Viajar
+
+| Felipi ---> Larissa | Grau: 0
+   Time: Gremio Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Piloto Professor
+   Cidade: Sapiranga Curitiba
+   Comida: arroz Lasanha
+   Estilo Musica: samba HipHop
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieA
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida CasaPropria
+
+| Felipi ---> Felipe | Grau: 1
+   Time: Gremio Santos
+   Equipe: Tro Tro
+   Profissão: Piloto Professor
+   Cidade: Sapiranga Curitiba
+   Comida: arroz Lasanha
+   Estilo Musica: samba Rock
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieB
+   Hobbie: correr Leitura
+   Sonho: PremioDeCorrida Sucesso
+
+| Felipi ---> Carolina | Grau: 0
+   Time: Gremio Santos
+   Equipe: Tro TNT
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga Rio
+   Comida: arroz Pizza
+   Estilo Musica: samba Sertanejo
+   Genero Filme: ação Drama
+   Genero Série: aventura SerieA
+   Hobbie: correr VideoGame
+   Sonho: PremioDeCorrida CarroNovo
+
+| Felipi ---> Vitor | Grau: 1
+   Time: Gremio Corinthians
+   Equipe: Tro Tro
+   Profissão: Piloto Medico
+   Cidade: Sapiranga Salvador
+   Comida: arroz Hamburguer
+   Estilo Musica: samba Pop
+   Genero Filme: ação Terror
+   Genero Série: aventura SerieE
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida Familia
+
+| Felipi ---> Patricia | Grau: 0
+   Time: Gremio Corinthians
+   Equipe: Tro Mafia
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga Rio
+   Comida: arroz Pizza
+   Estilo Musica: samba Rock
+   Genero Filme: ação Comedia
+   Genero Série: aventura SerieA
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida CarroNovo
+
+| Felipi ---> Mateus | Grau: 0
+   Time: Gremio Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Piloto Professor
+   Cidade: Sapiranga Curitiba
+   Comida: arroz Pizza
+   Estilo Musica: samba HipHop
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieA
+   Hobbie: correr VideoGame
+   Sonho: PremioDeCorrida Viajar
+
+| Felipi ---> Aline | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Tro Mafia
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga Curitiba
+   Comida: arroz Pizza
+   Estilo Musica: samba HipHop
+   Genero Filme: ação Terror
+   Genero Série: aventura SerieB
+   Hobbie: correr Cinema
+   Sonho: PremioDeCorrida Sucesso
+
+| Felipi ---> Tiago | Grau: 0
+   Time: Gremio Santos
+   Equipe: Tro TNT
+   Profissão: Piloto Engenheiro
+   Cidade: Sapiranga Salvador
+   Comida: arroz Sushi
+   Estilo Musica: samba Pop
+   Genero Filme: ação Drama
+   Genero Série: aventura SerieE
+   Hobbie: correr Musica
+   Sonho: PremioDeCorrida Familia
+
+| Felipi ---> Mariana | Grau: 0
+   Time: Gremio Santos
+   Equipe: Tro Mafia
+   Profissão: Piloto Advogado
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Lasanha
+   Estilo Musica: samba Sertanejo
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieE
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida CarroNovo
+
+| Felipi ---> Diego | Grau: 0
+   Time: Gremio Palmeiras
+   Equipe: Tro Mafia
+   Profissão: Piloto Tecnico
+   Cidade: Sapiranga BeloHorizonte
+   Comida: arroz Sushi
+   Estilo Musica: samba HipHop
+   Genero Filme: ação Terror
+   Genero Série: aventura SerieE
+   Hobbie: correr Musica
+   Sonho: PremioDeCorrida Sucesso
+
+| Felipi ---> Renata | Grau: 1
+   Time: Gremio Gremio
+   Equipe: Tro Eletro
+   Profissão: Piloto Advogado
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Hamburguer
+   Estilo Musica: samba Sertanejo
+   Genero Filme: ação Suspense
+   Genero Série: aventura SerieA
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida Sucesso
+
+| Felipi ---> Henrique | Grau: 1
+   Time: Gremio Santos
+   Equipe: Tro Tro
+   Profissão: Piloto Medico
+   Cidade: Sapiranga SaoPaulo
+   Comida: arroz Churrasco
+   Estilo Musica: samba Sertanejo
+   Genero Filme: ação Terror
+   Genero Série: aventura SerieA
+   Hobbie: correr Futebol
+   Sonho: PremioDeCorrida Sucesso

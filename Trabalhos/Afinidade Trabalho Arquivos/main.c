@@ -265,6 +265,7 @@ void Buscar_por_Posicao() {
     registrado agora;
     int conta_todos = 0;
     int escolha_posição = 0;
+    
     //Lê para contar elementos e escolher posição
     FILE * PERCORRE;
     PERCORRE = fopen("Registrados.bin", "rb");
