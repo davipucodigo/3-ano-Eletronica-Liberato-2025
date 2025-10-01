@@ -352,7 +352,7 @@ void Buscar_por_Posicao() {
         case 5://========================Comida
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
-                if (!(strcmp(agora.comida, minhabusca))) {
+                if (!(strcmp(agora.comida_favo, minhabusca))) {
                     printf(" %s ", agora.nome);
                 }
             }
