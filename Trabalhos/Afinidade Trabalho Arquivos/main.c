@@ -313,7 +313,7 @@ void Buscar_por_Posicao() {
     scanf("%s", minhabusca);
     switch (escolha_posição)
     {
-        case 1://Time
+        case 1://================================================Time
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.time, minhabusca))) {
@@ -322,7 +322,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 2://========================Equipe
+        case 2://================================================Equipe
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.equipe, minhabusca))) {
@@ -331,7 +331,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 3://========================profissao
+        case 3://================================================profissao
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.profissao, minhabusca))) {
@@ -340,7 +340,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 4://========================Cidade
+        case 4://================================================Cidade
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.cidade, minhabusca))) {
@@ -349,7 +349,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 5://========================Comida
+        case 5://================================================Comida
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.comida_favo, minhabusca))) {
@@ -358,7 +358,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 6://========================Estilo Musica
+        case 6://================================================Estilo Musica
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.estilo_musi, minhabusca))) {
@@ -367,7 +367,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 7://========================Genero Filme
+        case 7://================================================Genero Filme
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.genero_film, minhabusca))) {
@@ -376,7 +376,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 8://========================Genero Série
+        case 8://================================================Genero Série
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.genero_seri, minhabusca))) {
@@ -385,7 +385,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 9://========================Hobbie
+        case 9://================================================Hobbie
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.hobbie, minhabusca))) {
@@ -394,7 +394,7 @@ void Buscar_por_Posicao() {
             }
             fclose(PERCORRE);
             break;
-        case 10://========================Sonho
+        case 10://================================================Sonho
             PERCORRE = fopen("Registrados.bin", "rb");
             while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
                 if (!(strcmp(agora.sonho, minhabusca))) {
