@@ -260,7 +260,7 @@ void Gerar_Tabela_de_Afinidade() {
 
 }
 
-void Buscar_por_Posicao() {
+void Buscar_por_caracteristica() {
     //Variaveis
     registrado agora;
     int conta_todos = 0;
@@ -276,23 +276,6 @@ void Buscar_por_Posicao() {
 
         printf("\nNúmero de registrados: %d",conta_todos);
     fclose(PERCORRE);
-
-    //Buscando por posição
-    // printf("\n Digite a posição: "); 
-    // scanf("%d", &escolha_posição);
-    // if (escolha_posição > conta_todos) {
-    //     printf("Número invalido, só há %d registrados. ", conta_todos);
-    // }else {
-    //     conta_todos = 0;
-    //     PERCORRE = fopen("Registrados.bin", "rb");
-    //     while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
-    //         conta_todos++;
-    //         if (escolha_posição == conta_todos) {
-    //             printf("%s", agora.nome);
-    //         }
-    //     }
-    //     fclose(PERCORRE);
-    // }
     
     //Buscando por caracteristica
     printf("\n"
@@ -311,6 +294,7 @@ void Buscar_por_Posicao() {
     //caracteristica buscada
     printf("Digite a caracterista: ");
     scanf("%s", minhabusca);
+    
     switch (escolha_posição)
     {
         case 1://================================================Time
@@ -439,7 +423,7 @@ int main () {
             break;
             case 2:
                 // Função Pesquisa Caracteristica
-                Buscar_por_Posicao();
+                Buscar_por_caracteristica();
             break;
             case 3:
                 // Buscar Afinidade entre dois Registrados
