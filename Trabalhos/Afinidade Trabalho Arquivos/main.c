@@ -265,6 +265,7 @@ void Buscar_por_Posicao() {
     registrado agora;
     int conta_todos = 0;
     int escolha_posição = 0;
+    char minhabusca[100];
     
     //Lê para contar elementos e escolher posição
     FILE * PERCORRE;
@@ -276,23 +277,136 @@ void Buscar_por_Posicao() {
         printf("\nNúmero de registrados: %d",conta_todos);
     fclose(PERCORRE);
 
-    //Buscando
-    printf("\n Digite a posição: ");
-    scanf("%d", &escolha_posição);
-    if (escolha_posição > conta_todos) {
-        printf("Número invalido, só há %d registrados. ", conta_todos);
-    }else {
-        conta_todos = 0;
-        PERCORRE = fopen("Registrados.bin", "rb");
-        while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
-            conta_todos++;
-            if (escolha_posição == conta_todos) {
-                printf("%s", agora.nome);
-            }
-        }
-        fclose(PERCORRE);
-    }
+    //Buscando por posição
+    // printf("\n Digite a posição: "); 
+    // scanf("%d", &escolha_posição);
+    // if (escolha_posição > conta_todos) {
+    //     printf("Número invalido, só há %d registrados. ", conta_todos);
+    // }else {
+    //     conta_todos = 0;
+    //     PERCORRE = fopen("Registrados.bin", "rb");
+    //     while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+    //         conta_todos++;
+    //         if (escolha_posição == conta_todos) {
+    //             printf("%s", agora.nome);
+    //         }
+    //     }
+    //     fclose(PERCORRE);
+    // }
     
+    //Buscando por caracteristica
+    printf("\n"
+        "\n 1) Time"
+        "\n 2) Equipe"
+        "\n 3) Profissão"
+        "\n 4) Cidade"
+        "\n 5) Comida"
+        "\n 6) Estilo Musica"
+        "\n 7) Genero Filme"
+        "\n 8) Genero Série"
+        "\n 9) Hobbie"
+        "\n 10) Sonho"
+        "\nDigite o numero correspondente a caracteristica desejada: "); 
+    scanf("%d", &escolha_posição);
+    //caracteristica buscada
+    printf("Digite a caracterista: ");
+    scanf("%s", minhabusca);
+    switch (escolha_posição)
+    {
+        case 1://Time
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.time, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 2://========================Equipe
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.equipe, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 3://========================profissao
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.profissao, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 4://========================Cidade
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.cidade, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 5://========================Comida
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.comida, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 6://========================Estilo Musica
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.estilo_musi, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 7://========================Genero Filme
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.genero_film, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 8://========================Genero Série
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.genero_seri, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 9://========================Hobbie
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.hobbie, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        case 10://========================Sonho
+            PERCORRE = fopen("Registrados.bin", "rb");
+            while (fread(&agora, sizeof(registrado), 1, PERCORRE)) {
+                if (!(strcmp(agora.sonho, minhabusca))) {
+                    printf(" %s ", agora.nome);
+                }
+            }
+            fclose(PERCORRE);
+            break;
+        default:
+            printf("Número digitado para caracteristica não corresponde.");
+            break;
+    }
     
     // ========================== // ============================= //
 }
